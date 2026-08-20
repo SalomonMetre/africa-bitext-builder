@@ -1,0 +1,1305 @@
+id,abbrev,name,is_public_domain,lang_code,lang_name,country,has_text
+2,ABA,Bybel vir almal,False,afr,Afrikaans,BW;MZ;NA;ZA;ZM;ZW,True
+5,AFR53,Afrikaans 1933/1953,False,afr,Afrikaans,BW;MZ;NA;ZA;ZM;ZW,True
+6,AFR83,Afrikaans 1983,False,afr,Afrikaans,BW;MZ;NA;ZA;ZM;ZW,True
+7,ALBB,Albanian Bible 1994,True,,,,True
+12,ASV,American Standard Version,True,,,,True
+25,BHNT,Navarro-Labourdin Basque,True,,,,True
+32,BDSC,Bhaibheri Dzvene MuChiShona Chanhasi,False,sna,Shona,BW;ZA;ZM;ZW,True
+42,CPDV,Catholic Public Domain Version,True,,,,True
+43,CSBS,Chinese Standard Bible (Simplified Script),True,,,,True
+44,ces1613,Czech Kralická Bible 1613,True,,,,True
+45,CSLAV,Библия на церковнославянском языке,True,,,,True
+49,DA1871,Danske Bibel 1871/1907,True,,,,True
+50,DB,Die Boodskap,False,afr,Afrikaans,BW;MZ;NA;ZA;ZM;ZW,True
+51,DELUT,Luther Bible 1912,True,,,,True
+54,DB1885,Diodati Bible 1885,True,,,,True
+57,deuelo,German Unrevised Elberfelder Bible,True,,,,True
+58,ELB71,Elberfelder 1871,True,,,,True
+60,FI1776,Finnish 1776,True,,,,True
+62,FMAR,Martin 1744,True,,,,True
+64,JND,Bible J.N. Darby,True,,,,True
+65,GANTP,Albrecht NT und Psalmen,True,,,,True
+71,HAU,Littafi Mai Tsarki,False,hau,Hausa,BF;BJ;CM;NE;NG;TD,True
+74,BHN,Biblia Habari Njema,False,swh,Swahili,BI;KE;MZ;RW;SO;TZ;UG,True
+77,IGBOB,Bible Nso,False,ibo,Igbo,NG,True
+81,JA1955,Colloquial Japanese (1955),True,,,,True
+87,SOM08,Kitaabka Quduuska Ah,False,som,Somali,DJ;ET;KE;SO,True
+93,LSG,Bible Segond 1910,True,,,,True
+96,MG1865,Malagasy Bible,True,plt,Malgache,MG,True
+117,NLV,Nuwe Lewende Vertaling,False,afr,Afrikaans,BW;MZ;NA;ZA;ZM;ZW,True
+121,Bibel1930,Bibel 1930 - Bibelselskapet,True,,,,True
+124,NSO51,BIBELE,False,nso,"Sotho, Northern",BW;ZA,True
+130,TOJB2011,The Orthodox Jewish Bible,True,,,,True
+131,OST,Ostervald,True,,,,True
+132,PBG,Biblia Gdańska,True,,,,True
+135,POTL,Matthew and Acts,True,,,,True
+138,polUBG,Updated Gdansk Bible,True,,,,True
+147,RVES,Reina-Valera Antigua,True,,,,True
+161,SK73,Karl XII 1873,True,,,,True
+164,SUV,Maandiko Matakatifu ya Mungu Yaitwayo Biblia,False,swh,Swahili,BI;KE;MZ;RW;SO;TZ;UG,True
+166,SVEN,Svenska 1917,True,,,,True
+175,KJV,Thai KJV,True,,,,True
+177,TLAB,Ang Biblia,True,,,,True
+182,TR1624,Elzevir Textus Receptus 1624,True,,,,True
+183,TR1894,Scrivener’s Textus Receptus 1894,True,,,,True
+184,TSO89,BIBELE Mahungu Lamanene,False,tso,Tsonga,MZ;SZ;ZA;ZW,True
+185,TSW70,Setswana 1970,False,tsn,Setswana,BW;NA;ZA;ZM;ZW,True
+187,urdgvu,"Urdu Geo Version, Urdu Script",True,,,,True
+188,UKRK,"Біблія в пер. П.Куліша та І.Пулюя, 1905",True,,,,True
+195,SAT,Holy Bible: Easy-to-Read Translation,True,,,,True
+206,engWEBUS,"World English Bible, American English Edition, without Strong's Numbers",True,,,,True
+207,YCE,Yoruba Bible,False,yor,Yoruba,BJ;NG,True
+242,DIK,Lëk yam,False,dik,Dinka Southwestern,SD;SS,True
+255,nko,Bulu Ntam Pɔpwɛ mʋ́a Israel Ɩlʋ,False,nko,Nkonya,GH,True
+256,NSO00,BIBELE Taba yea Botse,False,nso,"Sotho, Northern",BW;ZA,True
+273,SSO61-SO,Sesotho 1909/1961 (SO),False,sot,Southern Sotho,LS;ZA,True
+274,SSO89SO,BIBELE,False,sot,Southern Sotho,LS;ZA,True
+278,TSW08NO,BAEBELE e e Boitshepo,False,tsn,Setswana,BW;NA;ZA;ZM;ZW,True
+280,VEN98,BIVHILI KHETHWA Mafhungo Madifha,False,ven,Venda,BW;ZA;ZW,True
+281,XHO75,IZIBHALO EZINGCWELE,False,xho,Xhosa,BW;LS;ZA,True
+282,XHO96,IBHAYIBHILE,False,xho,Xhosa,BW;LS;ZA,True
+286,ZUL59,IBHAYIBHELI ELINGCWELE,False,zul,Zulu,BW;LS;MZ;SZ;ZA,True
+299,NGBM,Nouveau Testament en Ngienboum,False,nnh,Ngiemboon,CM,True
+301,RNT,Kirimi New Testament,False,rim,Nyaturu,TZ,True
+312,CSBT,Chinese Standard Bible (Traditional Script),True,,,,True
+318,NRLB2024,Revised New Latvian Inter-confessional Bible 2024,True,,,,True
+320,TSI,Plain Indonesian Translation,True,,,,True
+331,bjvNT,KƗLӘ-MƗNDƗ KƗ SƗGƗ,False,bjv,Bedjond,TD,True
+336,bss,Melɛ̌ Mékɔ̄ɔ̄lē,False,bss,Akoose,CM,True
+342,dwrNT,Ooratha Caaquwaa,False,dwr,Dawro,ET,True
+343,anv,Ŋwɛ menomenyɛɛ́ mekɛ́,False,anv,Denya,CM;NG,True
+344,NTKM2009,Nouvo Testaman dan Kreol Morisien,False,mfe,Mauritian,MU,True
+350,atgNT,Ebe-No-Pfuasẹ Ishobọ Onogbọ,False,atg,Ivbie North-Okpela-Arhe,NG,True
+351,BYSB,Bibiliya Yera,False,kin,Rwandan,BI;CD;RW;TZ;UG,True
+354,daa,Jamaw ta Marbinto: Kabarre ta Gala ɗo bi ka Iisa Masi iŋ daŋla,False,daa,Dangaléat,TD,True
+367,ninNT,Ungbamvu Ku Abachi Azhi Ahe̲he̲ Ka,False,nin,Ninzo,NG,True
+372,ONDB,Ombiimbeli Ondjapuki,False,ndo,Ndonga,AO;NA,True
+379,cme,Diiloŋ-nelma Tobisĩfɛlɛnni,False,cme,Cerma,BF;CI,True
+381,box,Dónbeenì páaníi fĩnle vũahṹ,False,box,Buamu,BF;ML,True
+384,DIEMDC,Dikateny Iombonana Eto Madagasikara,False,plt,Malgache,MG,True
+387,BIRD,Bibiliya Ijambo ry'imana D,False,kin,Rwandan,BI;CD;RW;TZ;UG,True
+388,ken,Kenyang,False,ken,Kenyang,CM,True
+393,BHND,Biblia Habari Njema,False,swh,Swahili,BI;KE;MZ;RW;SO;TZ;UG,True
+395,BIR,Bibiliya Ijambo ry'imana,False,kin,Rwandan,BI;CD;RW;TZ;UG,True
+396,DIEM,DIEM PROTESTANTA,False,plt,Malgache,MG,True
+418,TSO89,BIBELE Mahungu Lamanene,False,tso,Tsonga,MZ;SZ;ZA;ZW,True
+426,kdlDBL,Tsikimba New Testament,False,kdl,Tsikimba,NG,True
+429,tswNT,Tsishingini,False,tsw,Tsishingini,NG,True
+430,KBNT,Kinyarwanda Bibiliya Ntagatifu,False,kin,Rwandan,BI;CD;RW;TZ;UG,True
+434,GM,Geeshsha Maxaafa,True,gmv,Gamo,ET,True
+435,gofRNT,Ooratha Caaquwa Goofatho,False,gof,Gofa,ET,True
+436,AOV1961,Ebaibuli,False,teo,Teso,KE;UG,True
+437,ncu,Abware̱se̱ŋ Wo̱re̱-ɔ,False,ncu,Chumburung,GH,True
+444,MB80,BIBLE MBAÏ 1980,False,myb,Mbay,CF;NG;TD,True
+445,SARDC,Bibəl ta Sar̄,False,mwm,Sar,TD,True
+446,BS,Bible sar,False,mwm,Sar,TD,True
+450,SND12,IsiNdebele 2012 Translation,False,nbl,South Ndebele,ZA,True
+456,MQB,Aban 'am wiya awan,False,mqb,Mbuko,CM,True
+461,nhu,Noone,False,nhu,Noone,CM,True
+469,OKYB,Ombibeli Iyapuki,False,kua,Kuanyama,AO;NA,True
+471,DBNT,Etestamende Epe Moludhimba,False,dhm,Zemba,AO;NA,True
+472,La79,Lango New Testament,False,laj,Lango (Uganda),UG,True
+474,gngNT,Ngangam,False,gng,Ngangam,BJ;GH;TG,True
+484,sxb,Endagano Empia,False,sxb,Suba,KE;TZ;UG,True
+500,KWB,Bible,False,gkp,Guinea Kpelle,GN;LR,True
+501,ADT19,Al-Kitaab al-Mukhaddas be l-arabi al-daariji hana Tchad,False,shu,Chadian Arabic (Roman script),CM;NE;NG;TD,True
+502,ع.د.ت19,الكتاب المقدس بالعربي الدارجي هنا تشاد,False,shu,Chadian Arabic,CM;NE;NG;TD,True
+505,dwrENT,Ooratha Caaquwaa,False,dwr,Dawro,ET,True
+506,gofENT,ኦራ ጫቁዋ ጎፋ,False,gof,Gofa,ET,True
+516,SBA2015,Maktub gə́ To gə Kəmee,False,sba,Ngambay,CM;NG;TD,True
+526,CSIA,Hungarian Bible by Lajos Csia,True,,,,True
+548,KKG20,Khoekhoegowab 2020,False,naq,Khoekhoe,BW;NA;ZA,True
+550,BEGDC,Bible en langue guiziga,False,giz,South Giziga,CM,True
+551,MOF,MEY HAYNA WAYNA MA YEZU KRISTE MA MEVEY,False,mfk,North Mofu,CM,True
+552,BBBLI,Baibo Busansulushi Bwa Libuku Ili,False,leh,Lenje,ZM,True
+555,KABI,New Testament,False,kbp,Kabiyè,BJ;GH;TG,True
+557,Massana,BIBALDA TA PELDETTA,False,mcn,Masana,CM;TD,True
+558,MSTD,الترجمة المغربية القياسية,False,ary,Moroccan Arabic,DZ;EH;MA,True
+559,Aco85,Acoli Baibul,False,ach,Acholi (Acoli),SS;UG,True
+564,GMN,Uthenga Uweme wa Yesu Kristu Wolembewa na Maliko,False,nse,Nsenga,MZ;ZM;ZW,True
+604,SWT,Siswati 1996 Bible,False,ssw,Swazi,LS;MZ;SZ;ZA,True
+607,TSO29,Xitsonga (Bibele),False,tso,Tsonga,MZ;SZ;ZA;ZW,True
+620,Kitabuna,Kisin Kiraan Kitabuna,True,yal,Yalunka,GN;ML;SL;SN,True
+627,MBB,Livulu lya Shukulu Kalunga,False,mck,Mbunda,AO;ZM,True
+810,FGN2013,Fare Ge Ndwara,False,kia,Kim,TD,True
+812,MW2013,Musamu Wamubwete 2013,False,beq,Beembe (Congo),CG,True
+813,FONDC,MAWUXÓWÉMA,False,fon,Fon,BJ;TG,True
+814,MBC,Baiboly Katolika,False,plt,Malgache,MG,True
+815,GUL04,Nouveau Testament en Gulay 2004,False,gvl,Gulay,TD,True
+817,Fon13,MAWUXÓWÉMA,False,fon,Fon,BJ;TG,True
+819,HHBD,Hindi Holy Bible,True,,,,True
+820,HHBR,Hindi Holy Bible,True,,,,True
+823,VULG,Vulgata latina,True,,,,True
+825,Lozi09,Bibele ye Kenile (Catholic Edition),False,loz,Lozi,BW;NA;ZM;ZW,True
+839,NTLD13,Le Nouveau Testament en langue Dida,False,gud,Yocoboué Dida,CI,True
+855,BA,Bible azumeina,False,mpg,Marba,TD,True
+856,BULU09,Bible en langue Bulu,False,bum,Bulu (Cameroon),CM,True
+860,KBTP,BHAIBHILI Yakayengemala,False,kck,Kalanga,BW;ZA;ZW,True
+863,MUAR,Bible Moundang,False,mua,Mundang,CM;TD,True
+868,GB11DC,Kalata Ko SƆ̧ DC,False,gya,"Gbaya, Northwest",CF;CG;CM;NG,True
+871,GB11,KALATA KO SƆ̧,False,gya,"Gbaya, Northwest",CF;CG;CM;NG,True
+873,MBP,Baiboly Protestanta Malagasy,False,plt,Malgache,MG,True
+876,BAFNT,Bafia Nouveau Testament,False,ksf,Bafia,CM,True
+880,NTD,Nouveau Testament Doyayo,False,dow,Doyayo,CM,True
+887,NTV,Le Nouveau Testament en langue Vute,False,vut,Vute,CM;NG,True
+888,ILL,Izwi lya Leza,False,ilb,Ila,ZM,True
+889,ETUNT,Ejagham New Testament,False,etu,Ejagham,CM;NG,True
+892,TUPB,Le Bible en Tupurri,False,tui,Tupuri,CM;TD,True
+893,Soso,"Soso Kitaabuie: Tawureta, Yabura, Inyila",True,sus,Susu (Roman script),GN;GW;SL;SN,True
+905,FBDC,Fulfulde DC Bible,False,fub,Fulfulde (Adamawa),CM;ER;ET;NG;SD;TD,True
+906,FB,Fulfulde Bible,False,fub,Fulfulde (Adamawa),CM;ER;ET;NG;SD;TD,True
+907,NTGomala,Ghomala New Testament,False,bbj,Ghomálá',CM,True
+908,MAFNT,Mofa New Testament,False,maf,Mafa,CM;NG,True
+910,TayNT,New Testament in Tay,True,,,,True
+911,BMYO,Bíbélì Mímọ́ ní Èdè Yorùbá Òde-Òní,False,yor,Yoruba,BJ;NG,True
+913,AruNT04,Aruamu New Testament,True,,,,True
+915,LBV,Laghano Lya Sambi Kwe Iwanu Wose,True,ruf,Luguru,TZ,True
+917,Udk,Uduk New Teatament and OT Portions,False,udu,Uduk,ET;SD;SS,True
+938,yre,Yaouré,False,yre,Yaouré,CI,True
+944,PBV,Lipatanu Lya Syayi Kwa Wantu Woseri,True,poy,Pogolo,TZ,True
+947,AAL59,Amashiwi Aba Lesa,False,lam,Lamba,CD;ZM,True
+984,Ibbaib63,Ibbaibele 1963,False,toi,Tonga (Zambia),NA;ZM;ZW,True
+992,RMC,Carpathian Romani 2021,True,,,,True
+1032,FBFNT,"Fulfulde Burkina, Dewtere Laamɗo Amaana Keso",False,ffm,Burkina Faso Fulfulde,BF;CI;GH;ML;MR;NE,True
+1034,MKL,Bibeli do fee,False,mkl,Mokole,BJ,True
+1035,ZiBT,Lagano hya,True,ziw,Zigula,TZ,True
+1038,NdBV,Lilaghanu lya shonu,True,ndj,Ndamba,TZ,True
+1043,NgBV,Ndagano mp'ya kwa wanth'u wose,True,ngp,Ngulu,TZ,True
+1053,BSK,Labib An Kreol Seselwa,False,crs,Seselwa Creole French,SC,True
+1054,BSK,Labib An Kreol Seselwa,False,crs,Seselwa Creole French,SC,True
+1068,BLP-2018,Buku Lopatulika,False,nya,Nyanja,MW;MZ;SZ;TZ;ZM;ZW,True
+1097,ILL15,Ishiwi Lyakwa Lesa 2015,False,bem,Bemba (Zambia),BW;CD;MW;ZM,True
+1104,SNT,Nkomine Fal Ritɛlɛ́,False,soy,Miyobe,BJ;TG,True
+1111,SKB,Swedish Core Bible - expanded,True,,,,True
+1118,SLNT98,Núúboòd Gú'dúgke Puu Sambə́ Nwɔŋú bìá,False,ndi,Samba Leko,CM;NG,True
+1120,GDRNT85,Nouveau Testament en Guidar,False,gid,Gidar,CM;TD,True
+1125,Ching'hwele,Biblia Ching'hwele,True,cwe,Kwere,TZ,True
+1130,BMS,Boy Lonana,False,mse,Musey,CM;TD,True
+1136,NNT,Ka̱bas Qae-xg'ae sa,False,nhr,Naro,BW;NA,True
+1138,BAR,Bibeli Gusunɔn Gari,False,bba,Baatonum,BJ;NG,True
+1139,kyf,Kouya,False,kyf,Kouya,CI,True
+1140,mykNTpo,Mamara,False,myk,Mamara Senoufo,BF;ML,True
+1142,muy,Ma Mʉweni Sulumani ge Melefit,False,muy,Muyang,CM,True
+1143,mcp,Makaa,False,mcp,Makaa,CM,True
+1144,taq,Tamasheq,False,taq,Tamasheq,BF;ML,True
+1145,spp,"Senoufo, Supyire",False,spp,Supyire Senoufo,BF;CI;ML,True
+1148,wmwBI,Mwani,False,wmw,Mwani,MZ,True
+1149,xed,Hdi,False,xed,Hdi,CM;NG,True
+1150,xonB,Uwumbɔr aagbaŋ,False,xon,Konkomba,GH;TG,True
+1154,ekaNT,Ekajuk New Testament,False,eka,Ekajuk,NG,True
+1155,Boo2024,Boko Bible 24,False,bqc,Boko (Benin),BJ;NG,True
+1158,kyq,Kenga,False,kyq,Kenga,TD,True
+1159,fuv,"Fulfulde, Nigeria",False,fuv,Fulani,CM;NG;TD,True
+1160,yam,Yamba,False,yam,Yamba,CM;NG,True
+1168,meq,Merey,False,meq,Merey,CM,True
+1173,gqr,Ta lǝ Luwǝ Kunmindɨ kɨ Sigɨ,False,gqr,Gor,CF;TD,True
+1174,kde,Ibibiliya mu Shimakonde Imbodi Yaambi na dimbande dya Imbodi Yakala,False,kde,Makonde,MZ;TZ,True
+1175,ffm,Aadi keyri: linjiila iisaa almasiihu,False,ffm,Maasina Fulfulde,BF;CI;GH;ML;MR;NE,True
+1178,xuo,Kuo,False,xuo,Kuo,CM;TD,True
+1190,ikwNT,Tẹsitamenti Ikne n'Ọnu Ikwere,False,ikw,Ikwere,NG,True
+1201,GKN,Kĩrĩkanĩro Gĩa Gĩkũyũ,False,kik,Kikuyu,KE,True
+1202,GKNDC,Kĩrĩkanĩro Gĩa Gĩkũyũ,False,kik,Kikuyu,KE,True
+1207,WMBBE,World Messianic Bible British Edition,True,,,,True
+1209,WMB,World Messianic Bible,True,,,,True
+1214,knf,Mankanya,False,knf,Mankanya,GW;SN,True
+1217,SSDC98,SEBR SÕNGO,False,mos,Mossi,BF;CI;GH;ML;TG,True
+1219,MRV,La Bible en Malgache,False,plt,Malgache,MG,True
+1221,Chividunda,Ilagano Linyale kwa Wanhu Weng'ha na Ilagano lya Katali kuli Chividunda,True,vid,Vidunda,TZ,True
+1226,King'hutu,Biblia Kikutu,True,kdc,Kutu,TZ,True
+1237,PNT,Pere New Testament,False,pfe,Peere,CM;NG,True
+1240,LNT,Limbum New Testament,False,lmp,Limbum,CM;NG,True
+1256,Sog,Baibuli Ekibono kya Katonda 2014,False,xog,Soga,UG,True
+1260,NASV,አዲሱ መደበኛ ትርጒም,False,amh,Amharic,DJ;ET,True
+1285,MNF2010,Mbeti ti Nzapa - Tënë so amu fini,False,sag,Sango,CD;CF;CG;TD,True
+1293,asgNT,Uzuwakpani u Savu n Cishingini; n aba'in a na a Zagbai a Uzukpani u Kuku,False,asg,Cishingini,BJ;NG,True
+1294,loqDBL,Lobala NT,False,loq,Lobala,CD;CG,True
+1300,bqjDBL2,bqj Firim fafu fal Aláemit,False,bqj,Bandial,SN,True
+1303,xsmDBL,xsm Wɛ Tɔnɔ dɩ kasɩm,False,xsm,Kasem,BF;GH,True
+1308,GMN,Chinsenga New Testament,False,nse,Nsenga,MZ;ZM;ZW,True
+1309,TTQ,Ǝlinjil ǝn Ɣaysa Ǝlmǝsix,False,ttq,Tuareg,BF;ML;NE;NG,True
+1311,wibDBL,wib Nouveau Testament en toussian,False,wib,Southern Toussian,BF;CI,True
+1317,ted,Le Nouveau Testament en langue kroumen tépo,False,ted,Tepo Krumen,CI;LR,True
+1321,TTQtg,ⵍⵍ ⵢⵙⴰ ⵍⵎⵙⵈ,False,ttq,Tuareg,BF;ML;NE;NG,True
+1323,gurDBL,"Farefare, Ninkaré",False,gur,Farefare,BF;GH,True
+1367,NTGBY,"Takarata pɛ Sɔ, Mbombe Mbon",False,gso,"Gbaya, Southwest",CF;CM,True
+1368,kpg,Kapingamarangi Bible,True,,,,True
+1369,arp,Arapaho Luke,True,,,,True
+1371,Kir-NT,The New Testament in Kire,True,,,,True
+1373,fuq,Alkawal Kesal,False,fuq,Fulfulde (Central-Eastern Niger),ML;NE;NG;TD,True
+1377,MKD,Morokodo,True,mgc,Morokodo,SS,True
+1378,sehNT,Cibverano Cipsa,False,seh,Sena,MW;MZ,True
+1379,Soso,سٌسٌ كِتَابُييٍ؛ تَوُرٍتَ، يَبُرَ، عِنيِلَ,True,sus,Susu (Arabic Script),GN;GW;SL;SN,True
+1380,GDZ,GALA Daawoo Zɛʋɛi,True,tod,Toma,GN;LR,True
+1384,TEM,Ɩsɔ́ɔ-dɛ́ɛ Tɔ́m Tákaraɖá,False,kdh,Tem,BJ;GH;TG,True
+1393,BKPDCG,Yálá laawoo hɛɓɛ (dc),False,gkp,Guinea Kpelle,GN;LR,True
+1394,BKG,BII BILA,False,kqs,Kissi,GN;LR;SL,True
+1395,BKPG,Yálá laawoo hɛɓɛ,False,gkp,Guinea Kpelle,GN;LR,True
+1423,LBR,"EKITABO EKITUKUVU, BAIBULI",False,lug,Ganda,UG,True
+1426,tke,Takwane,False,tke,Takwane,MW;MZ,True
+1431,NIY,UNGBÒTA-ƆWɄ́TÁ TƆ́ BHǓKÙ,False,niy,Ngiti,CD;UG,True
+1434,RR64,Baibuli Erikwera,False,nyn,Nyankole,RW;TZ;UG,True
+1437,YAWO,Chiyawo Bible,False,yao,Yao,MW;MZ;TZ;ZM,True
+1441,BILK13,Baibuli I Leb Kumam 2013,False,kdi,Kumam,UG,True
+1445,bjvDBL,bjv Makɨtɨbɨ lə Luwə kɨ ta Nangɨnda,False,bjv,Bedjond,TD,True
+1456,DN1971,DEƲE NIINƐI,False,lom,Loma (Liberia),GN;LR,True
+1460,KUGL,UWONBƆR A GBƆNPƆŊ LIKƆƆNL,False,xon,Konkomba,GH;TG,True
+1461,ASWDC,Twerɛ Kronkron,False,twi,Twi,,True
+1462,adj,Adioukrou,False,adj,Adioukrou,CI,True
+1465,ses,Songhai de Gao Bible,False,ses,Koyraboro Senni Songhai,ML;NE,True
+1479,KWB,Ŋ̀âla Kɔlɔ Maa Waai,False,xpe,Liberia Kpelle,GN;LR,True
+1485,kspDBL,Maketuru le Lubba ke tar kabba,False,ksp,Kaba,CF;TD,True
+1487,ƐAA03,Ɛmɛẅi ankà ankrànkràn 2003,False,ald,Alladian,CI,True
+1490,NTNG61,Nouveau Testament en Ngombe 1961,False,ngc,Ngombe (Democratic Republic of Congo),CD;CF,True
+1491,NTK50,Le Nouveau Testament en Kikwango 1950,False,ktu,Kituba (Democratic Republic of Congo),CD,True
+1492,BBY62,Bokanda Bona Yakomba Bon’ototo,False,nxd,Ngando (Democratic Republic of Congo),CD,True
+1493,NTN62,Nouveau Testament et Psaumes en Ndandi Version 1962,False,nnb,Kinandi (Ndandi),CD;UG,True
+1494,NTLK52,KILOMBENO KIHYA KIA NFUMWETU YESU KIDISITU,False,sop,Songe,CD,True
+1495,NTMN58,BONKANDA WA NZAKOMBA W’AEYOKO,False,lol,Mongo,CD,True
+1496,NTKE58,Le Nouveau Testament in Kele (Lokele) 1958,False,khy,Kele (Democratic Republic of Congo),CD,True
+1497,NTKI57,Nouveau Testament en Kilega,False,lgm,Lega-Mwenga,CD,True
+1499,hag,"Naawun yatogiri, Piiligu gbaŋŋu Selections",False,hag,Hanga,GH,True
+1508,DDKWW,Dilagano Disha ku Wanhu wose,False,kki,Kagulu,TZ,True
+1511,DIINT,Dii New Testament,False,dur,Dii,CM,True
+1512,SNT00,Sukuma New Testament 2000,False,suk,Sukuma,TZ,True
+1514,DTGANT09,NEAJEEDA EESH BEA BUUNEESSEAN,False,tcc,Datooga,TZ,True
+1515,BEK12,Ghena ta Shala,False,kvj,Psikye,CM;NG,True
+1517,SUKBI15,Bibilia Ilagano Lya Kale 2015,False,suk,Sukuma,TZ,True
+1518,ktj,NYƖSƲA A ꞊HAANTITIE,False,ktj,Plapo Krumen,CI;LR,True
+1549,cskDBL,Jola-Kasa,False,csk,Jola-Kasa,GM;GW;SN,True
+1552,NHO,Takuu New Testament,True,,,,True
+1555,AKS,Alla la Kitabu Seniman,True,msc,Sankaran Maninka,GN;SL,True
+1556,BSCDBL,Akayëta and eter ekaŝax aŋ. Akayëta Añanar aŋ,False,bsc,Oniyan,GN;GW;SN,True
+1557,KKK,Kitabu ka Kanu,True,bsp,Baga Sitemu,GN,True
+1563,bdh,Mɨkánda Lorụ ꞌBɨ Lomo Kɨ́ Dosị́ Éyị́ E,False,bdh,Baka (Sudan),CD;SS,True
+1573,BBB,Bible (A.Bokun translation),True,,,,True
+1582,ANNa,Ikpa Mbuban Eyi Katolik,False,ann,Obolo,NG,True
+1585,KAPR,Bukuit Ne Tilil,False,kln,Kalenjin,KE,True
+1586,KALDC,BUKUIT NE TILIIL Sireet ne Dutero Kanon,False,kln,Kalenjin,KE,True
+1587,Obolo,Ikpa Mbuban,False,ann,Obolo,NG,True
+1591,bomBI,Bwok-basa Dagwi wuna-na-sira roso tanga pas,False,bom,Berom,NG,True
+1598,dyiB,BIBULU Yɛnŋɛlɛ li Sɛnrɛ,False,dyi,Djimini Senoufo,CI,True
+1599,Ikwo,BAYỊBURU Ikwo,False,iqw,Ikwo,NG,True
+1600,Ezaa,BAYỊBURU Ẹzaa,False,eza,Ezaa,NG,True
+1601,Izii,BAYỊBURU Izii,False,izz,Izii,NG,True
+1607,LMBNT2016,Ulufingo Ulupya,False,lai,Lambya,MW;TZ;ZM,True
+1612,kqpNT,Kimré,False,kqp,Kimré,TD,True
+1613,AL,Agbenya La,False,ewe,Éwé,GH;TG,True
+1614,SRK,Sabon Rai Don Kowa 2020,False,hau,Hausa,BF;BJ;CM;NE;NG;TD,True
+1615,LEF,Lefoko: La Botshelo Kgolagano e Ntsha,False,tsn,Setswana,BW;NA;ZA;ZM;ZW,True
+1617,YOM,"Nkanda Wu Moyo, Nguizani yimona ayi minkunga",False,yom,Yombe,AO;CD;CG,True
+1618,CCL,Mawu a Mulungu mu Chichewa Chalero,False,nya,Nyanja,MW;MZ;SZ;TZ;ZM;ZW,True
+1621,GAW,Alkawali Woiwoyi,False,gbr,Gbagyi,NG,True
+1622,GKY,"Kiugo Gĩtheru Kĩa Ngai, Kĩrĩkanĩro Kĩrĩa Gĩkũrũ Na Kĩrĩa Kĩerũ",False,kik,Kikuyu,KE,True
+1624,BIU,Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a,False,ibo,Igbo,NG,True
+1625,EEEE,Endagaano Enkadde n’Endagaano Empya,False,lug,Ganda,UG,True
+1626,BEN,IBhayibhili Elingcwele LesiNdebele,False,nde,North Ndebele,BW;ZM;ZW,True
+1627,NEN,Neno,False,swh,Swahili,BI;KE;MZ;RW;SO;TZ;UG,True
+1631,AKNA,Akuapem Twi Nkwa Asɛm,False,twi,Twi,,True
+1643,BLNT74,Nyanmien nde Ufle,False,bci,Baoulé,CI,True
+1646,SNFDBL,Noon,False,snf,Noon,SN,True
+1672,DFBLVL,Geeshsha Mas'aafaa,True,dwr,Dawro,ET,True
+1673,MOT,Makua Bible Version,True,mgh,Makhuwa-Meetto,MZ;TZ,True
+1674,NNQNT,Ngindo New Testament,True,nnq,Ngindo,TZ,True
+1680,TCHKR,Kuo :Dele',False,kqo,Eastern Krahn,CI;LR,True
+1688,ጌኤ.ማፃ,ጌኤዦ ማፃኣፖ,True,mdy,Maale,ET,True
+1689,MNT,Maale New Testament,False,mdy,Maale,ET,True
+1694,Ndau,Bhaibheri Rakachena muChindau,False,ndc,Ndau,MZ;ZW,True
+1707,داَ,دٜڢْتٜرٜ اَللَّه ڢُلْڢُلْدٜ عَدَمَوَ,False,fub,Adamawa Fulfulde,CM;ER;ET;NG;SD;TD,True
+1723,BBL,Bible (V. Semukha translation),True,,,,True
+1728,dyu,Jula NT of Côte d’Ivoire,False,dyu,Dyula,BF;CI;ML,True
+1729,GJNb,EBƆRƐ BE KAWƆL,False,gjn,Gonja,GH,True
+1731,any,The Agni Sanvi NT of Côte d’Ivoire,False,any,Anyin,CI;GH,True
+1738,akp,Siwu,False,akp,Siwu,GH,True
+1741,acd,"GɛnÞ PobÞrÞ, Gɛbono Wurubuaarɛ Gi Yɛgɛ Mɔ-rɛ Anyamesɛ Mɛ Wɔra Mɔ",False,acd,Gikyode,GH;TG,True
+1742,bav,Vengo (Babungo),False,bav,Vengo,CM,True
+1744,BEK,Buku ꞌba Tisaki ni Tɔdɔ to Lömu Laꞌja ꞌBa Yësu Kurïsïtö Ŋere Ze,False,bex,Jur Modo,SS,True
+1748,bim,Yennu Gbouŋ Mɔɔr,False,bim,Bimoba,GH;TG,True
+1751,bib,"Wosoci Gu̳aasi̳babaa Daa, Nouveau Testament en Bissa",False,bib,Bissa,BF;CI;GH;TG,True
+1752,bov,Tuwuli,False,bov,Tuwuli,GH,True
+1754,AKKDC08,ALA KA KUMA,False,dyu,Dyula,BF;CI;ML,True
+1756,MamL13,Amazwi Yakwe Leza 2013,False,mgr,Mambwe (ichi-): Lungu,TZ;ZM,True
+1759,ngl,Ifè: Ìwé-Ɔ̀ɖáyé Ìmↄl̀ɛ̀-Ìk̀ã́ã̀nyì,False,ife,Ifè,BJ;TG,True
+1766,avu,Tã-drı̣̃ Lẽlẽ Óꞌdí Óvârí Kâ,False,avu,Avokaya,CD;SS,True
+1767,bcw,Zliya Yǝwǝn kwǝma wǝzǝ naa dzǝkǝn Yesǝw Kǝristǝw,False,bcw,Bana,CM,True
+1768,kkj,Kako,False,kkj,Kako,CF;CG;CM,True
+1772,lee,Lyélé,False,lee,Lyélé,BF,True
+1773,LIP,Onanto Eto Kakle Fɔfɔ Sɛkpɛle,False,lip,Sekpele,GH,True
+1775,lem,Nomaande,False,lem,Nomaande,CM,True
+1778,gde,Gude: Kura Aləkawalə ŋga Əntaŋfə,False,gde,Gude,CM;NG,True
+1779,MbKamNT,New Testament in Mborena Kam,True,,,,True
+1783,lwo,Luwo,False,lwo,Luwo,SS,True
+1784,maw,Mampruli,False,maw,Mampruli,GH;TG,True
+1785,MFI,Mofu-Gudur,False,mif,Mofu-Gudur,CM,True
+1788,mfi,Wakita á Dadaamiya (wandala),False,mfi,Wandala,CM;NG,True
+1789,moa,-JAN ꞌNRALE- ꞌSƐWƐ,False,moa,Mwan,CI,True
+1792,muh,Mündü,False,muh,Mündü,CD;SS,True
+1793,ndz,Ndogo,False,ndz,Ndogo,SS,True
+1795,ntr,WURUBURƐ NOMBIA KPAAKPAA NƆƆKEBAKESEE WƆLE,False,ntr,Delo,GH;TG,True
+1796,snw,Selee,False,snw,Selee,GH,True
+1797,TLJ,Ndaghaano Mpyaka Mu Lubwisi,False,tlj,Talinga-Bwisi,CD;UG,True
+1798,VPFJ,Version Pular Fuuta-Jallon,True,fuf,Pular,GN;GW;ML;SL;SN,True
+1800,LEKJOT,Lek Jot  de Jecu Kritho 1940,False,dks,"Dinka, Southeastern",SS,True
+1802,MadaNT,Rɛn Kpan Nyu Suswɛ,False,mda,Mada (Nigeria),NG,True
+1804,tpmNT,Tampulma,False,tpm,Tampulma,GH,True
+1808,nnw,"Nuni, Southern",False,nnw,Southern Nuni,BF;GH,True
+1810,DHO15,MUMA MALER 2015,False,luo,Luo (Kenya and Tanzania),KE;TZ,True
+1811,KISHNT05,Kishambala New Testament 2005,False,ksb,Shambala,TZ,True
+1812,KIVNT99,Kivunjo New Testament 1999,False,vun,Vunjo,KE;TZ,True
+1813,KNT09,LYAGO NIPIA MPOLA NANZIIZA KU ANTU TŨLŨ Kuntambo ya Kĩnilyamba 2009,False,nim,Nilamba,TZ,True
+1814,EE95,Endagano Ehea 1995,False,kuj,Kuria,KE;TZ,True
+1815,HeNT2004,Lufingano Lupya,False,heh,Hehe,TZ,True
+1816,MBS,Biblia Sinyati,False,mas,Masai,KE;TZ,True
+1817,SRUVDC,Swahili Revised Union Version,False,swh,Swahili,BI;KE;MZ;RW;SO;TZ;UG,True
+1818,SRUV,Swahili Revised Union Version,False,swh,Swahili,BI;KE;MZ;RW;SO;TZ;UG,True
+1823,Akg-MkAc,Akukem Portions for DBL,True,,,,True
+1827,KBNT,The Book of Mark - Kianying Balang,True,,,,True
+1829,LUG68,Ekitabo Ekitukuvu ekiyitibwa Baibuli Endagaano Enkadde n'Empya,False,lug,Ganda,UG,True
+1830,dnjGW,NAƆ ‑SË 'SËËDHƐ,False,daf,Dan,CI;GN;LR,True
+1831,dnjBL,Dan Blowo (Yacouba) Nouveau Testament,False,dnj,Dan,CI,True
+1832,iriNT,'Jee Hwi na Krre̱de̱ Be̱ne̱ a zhi Rigwe,False,iri,Irigwe,NG,True
+1833,KB80,AMASAKO ABOYTRTRE WA NYAMUHANGA AWAKAHULAWA MO BIBLIA,False,nnb,Kinandi (Ndandi),CD;UG,True
+1834,log,BÚKÙ TÀ TƗ́DHƗ́//RU YÌZO DHƗ ÀDHYA,False,log,Logoti,CD;SS,True
+1835,mbu,Maləmce Məfele mala Ɓakuli: Kurcau Məbəshe,False,mbu,Mbula-Bwazza,NG,True
+1836,naw,Nawuri,False,naw,Nawuri,GH,True
+1837,LUGUNGU,Bitabbu bya Ndagaanu Ghyaka na Bitabbu 6 bya Ndagaanu Gi̱gu̱lu̱u̱su̱ (Lugungu),False,rub,Gungu,UG,True
+1838,BIM,Yennu Gbounpaauŋ Mɔɔr,False,bim,Bimoba,GH;TG,True
+1854,NTE12,MKPAMAṄ AMVOE Nouveau Testament en langue Ewondo 2012,False,ewo,Ewondo,CM,True
+1855,MUSGUM,Ɗû na sɗik na wiini Alaw,False,mug,Mousgoum,CM;TD,True
+1861,ASW,New Revised Asante Twi Bible,False,twi,Twi,,True
+1883,IRVBen,Indian Revised Version (IRV) Bengali,True,,,,True
+1884,IRVPun,Indian Revised Version (IRV) Punjabi - 2019,True,,,,True
+1885,IRVUrd,Indian Revised Version (IRV) Urdu - 2019,True,,,,True
+1887,urdgvr,Urdu Geo Version (Roman Script),True,,,,True
+1890,did,ꞌBuuk cĩ Thõõth cĩ Nyekuci,False,did,Didinga,SS;UG,True
+1895,IRVTel,Indian Revised Version (IRV) Telugu - 2019,True,,,,True
+1897,bla1890,Blackfoot Matthew,True,,,,True
+1898,IRVKan,Indian Revised Version (IRV) Kannada - 2019,True,,,,True
+1899,IRVTam,Indian Revised Version (IRV) Tamil - 2019,True,,,,True
+1910,IRVMar,Indian Revised Version (IRV) - Marathi,True,,,,True
+1911,IRVGuj,Indian Revised Version (IRV) Gujarati-2019,True,,,,True
+1912,MAL-IRV,Indian Revised Version (IRV) - Malayalam - 06,True,,,,True
+1919,yap,Yapese Bible,True,,,,True
+1920,Tula,Bwaki Kifwiyang,False,tul,Tula,NG,True
+1921,TyapNT,A̠lyiat A̠gwaza na di̠n Tyap: A̠li̠ka̠uli A̠fai,False,kcg,Tyap,NG,True
+1925,SobP15,Sob Jonah and Luke,True,,,,True
+1931,SUB1949,Baiberi Magwaro Matȿene aMŋari 1949 (Doke),False,sna,Shona,BW;ZA;ZM;ZW,True
+1932,FBV,Free Bible Version,True,,,,True
+1938,vag,Vagla,False,vag,Vagla,GH,True
+1940,wob,Wè Northern,False,wob,Wè Northern,CI,True
+1941,xrb,Yãhã Naambiyãrfãn Saba,False,xrb,Eastern Karaboro,BF;CI,True
+1960,SNA2002,"Shona Bible 1949, revised 2002",False,sna,Shona,BW;ZA;ZM;ZW,True
+1961,Tumbuka,New Tumbuka Bible,False,tum,Tumbuka,MW;ZM,True
+1964,MNB,Mokanda na Bomoi,False,lin,Lingala,CD;CF;CG,True
+1974,Lango,BUK OBAŊA ACIL AME OLWOŊO NI BAIBUL AME OGEO LOKO I LEB LAŊO,False,laj,Lango (Uganda),UG,True
+1977,uth,Mɑ‑to̱ Shir Taku̱rda-o swo̱r o-nu pu̱-o̱,False,uth,Hun-Saare,NG,True
+1978,sigDBLnt,Wɩɩsɩ Nyʋʋfalɩɩ Teŋ (Ghana),False,sig,Paasaal,GH,True
+1979,IRVAsm,Indian Revised Version (IRV) Assamese - 2019,True,,,,True
+1980,IRVHin,Indian Revised Version(IRV) Hindi - 2019,True,,,,True
+1982,avn,KUNYANYA VUVU YƆ,False,avn,Avatime,GH,True
+1983,bbkDBLnt,The New Testament in the Babanki language,False,bbk,Babanki,CM,True
+1989,nzaDBLnt,Srakàda Mbɔchù Epokwre,False,nza,Tigon Mbembe,CM;NG,True
+2012,mzw,mzwDBL,False,mzw,Deg,CI;GH,True
+2018,KRX,Hilim ha hiti Pútuun pa,False,krx,Karon,GM;SN,True
+2021,DIƐT,Diɛt ke Dabid 1956,False,dks,"Dinka, Southeastern",SS,True
+2023,gna,Kaansa NT (Ghana),False,gna,Kaansa,BF,True
+2049,MOG,Ala la kitabuenu Mɔgɔfin kuma tɔ,False,mfg,Mogofin,GN,True
+2052,kbo,Keliko,False,kbo,Keliko,CD;SS;UG,True
+2066,SUS1816,Lingjili Matthew ki nache 1816,False,sus,Susu (Roman script),GN;GW;SL;SN,True
+2067,KL1960,Testament ke Siki 1960 (Kabba Laka),False,lap,Laka (Chad),CF;TD,True
+2069,mzmNT,Nyaa Shɔɔ Ɓɔɔ Laa a Ɓɛɛ,False,mzm,Mumuye,NG,True
+2070,izrNT,Izere New Testament,False,izr,Izere,NG,True
+2071,kubNT,Kutsingken Ira Rimam ti Saen Kyag,False,kub,Kutep,CM;NG,True
+2074,KBY,Linjila,False,kby,Manga Kanuri,NE;NG,True
+2076,MumNP18,Mum Language NT Portions,True,,,,True
+2094,ASNA,Asante Twi Nkwa Asɛm,False,aka,Akan,GH;TG,True
+2102,SANTM,Sanskrit Bible (NT) in Tamil Script (ஸத்யவேத³​:।),True,,,,True
+2103,SANGJ,Sanskrit Bible (NT) in Gujarati Script (સત્યવેદઃ।),True,,,,True
+2104,SAN-DN,Sanskrit NT in Devanagari,True,,,,True
+2105,SANAS,Sanskrit Bible (NT) in Assamese Script (সত্যৱেদঃ।),True,,,,True
+2106,SANBN,Sanskrit Bible (NT) in Bengali Script,True,,,,True
+2107,SANCO,Sanskrit Bible (NT) in Cologne Script (satyavEdaH|),True,,,,True
+2108,SANPN,Sanskrit Bible (NT) in Punjabi Script (ਸਤ੍ਯਵੇਦਃ।),True,,,,True
+2109,SANUR,Sanskrit Bible (NT) in Urdu Script (سَتْیَویدَح۔),True,,,,True
+2110,SANIA,Sanskrit Bible (NT) in IAST Script (satyavedaḥ|),True,,,,True
+2111,SANSI,Sanskrit Bible (NT) in Sinhala Script (සත්‍යවේදඃ।),True,,,,True
+2112,SANTI,Sanskrit Bible (NT) in Tibetan Script (སཏྱཝེདཿ།),True,,,,True
+2113,SANML,Sanskrit Bible (NT) in Malayalam Script (സത്യവേദഃ।),True,,,,True
+2114,SANHK,Sanskrit Bible (NT) in Harvard-Kyoto Script (satyavedaH|),True,,,,True
+2115,SANTH,Sanskrit Bible (NT) in Thai Script (สตฺยเวท:ฯ),True,,,,True
+2116,SANIT,Sanskrit Bible (NT) in ITRANS Script (satyavedaH|),True,,,,True
+2117,SANIS,Sanskrit Bible (NT) in ISO Script (satyavēdaḥ|),True,,,,True
+2118,SANOR,Sanskrit Bible (NT) in Oriya Script (ସତ୍ୟୱେଦଃ।),True,,,,True
+2119,SANKH,Sanskrit Bible (NT) in Khmer Script (សត្យវេទះ។),True,,,,True
+2120,SANVE,Sanskrit Bible (NT) in Velthuis Script (satyaveda.h|),True,,,,True
+2121,SANKA,Sanskrit Bible (NT) in Kannada Script (ಸತ್ಯವೇದಃ।),True,,,,True
+2122,SANTE,Sanskrit Bible (NT) in Telugu Script (సత్యవేదః।),True,,,,True
+2131,SHJ,Sorunu Kaläg na Ikä Caning,True,shj,Shatt,SD,True
+2138,TAITA,Biblia Ilagho Jiboie Kwa Wandu Wose,False,dav,Taita,KE;TZ,True
+2144,BHNTLK,Biblia Habari Njema: Toleo la Kujifunza,False,swh,Swahili,BI;KE;MZ;RW;SO;TZ;UG,True
+2147,BFD,Ǹtoò Kristo yî Ǹsɨgɨ̀nǝ̀: mɨ̀kàà yî mfiì,False,bfd,Bafut,CM,True
+2148,BIV,"A Nãaŋmɩn Nɛtɩr Oaalaa Gãn, Bɩrfʊɔr",False,biv,Southern Birifor,BF;CI;GH,True
+2152,dip-JPB,JAM DE NHIALIC 2011,False,dip,Northeastern Dinka,SD;SS,True
+2154,EA2003,Ecorit Aŋejuk 2003,False,lot,Otuho,SS;UG,True
+2155,nusNHB,RUAC KUƆTH IN RƐL RƆ,False,nus,Nuer,ET;SS,True
+2156,shkDCB,WÄNYI KWËRØ 2011,False,shk,Shilluk,SD;SS,True
+2158,SANBU,Sanskrit Bible (NT) in Burmese Script (သတျဝေဒး၊),True,,,,True
+2159,pny,Pinyin,False,pny,Pinyin,CM,True
+2163,enggnv,Geneva Bible,True,,,,True
+2165,srp1865,Serbian Bible,True,,,,True
+2168,cko,Nyεmε Jɔrε Kadasi,False,cko,Anufo,BJ;GH;TG,True
+2175,bmv,Ŋwàklù Fùyèn Kàn Mù Fê (Cameron),False,bmv,Bum,CM,True
+2176,BWU,WEN GBAŊKA,False,bwu,Buli (Ghana),GH,True
+2179,mgo,Meta’,False,mgo,Meta',CM,True
+2182,BIBU1,BIBULIYA ENTUKUVU,False,lug,Ganda,UG,True
+2183,LPE,Ibayibuli Ingwalaafu,False,myx,Masaaba,KE;UG,True
+2184,LCE,Ibayibuli Ingwalaafu,False,myx,Masaaba,KE;UG,True
+2185,DHOCDC,KITAWO MALEŊ Catholic,False,adh,Adhola,KE;UG,True
+2186,DHOPE,KITAWO MALEŊ,False,adh,Adhola,KE;UG,True
+2189,dsh,Fayam Midhab Yiesu Kiristoká He Hol Af Iđiny Kaanaká,False,dsh,Daasanach,ET;KE;SS,True
+2199,CHIDUR,Lagano Iphya,False,dug,Duruma,KE;TZ,True
+2200,deutkw,"The Holy Bible in German, translation by Kautzsch und Weizsäcker 1906",True,,,,True
+2205,mfh,Wakità Zəzagəla Wakità Aŋa Makəs Vok Slawda Mawga (Cameroun),False,mfh,Matal,CM,True
+2206,thk,Kîrîîkanîro Kîîyerû,False,thk,Tharaka,KE,True
+2207,nyf,Kilagane Kisha (Kenya),False,nyf,Giryama,KE,True
+2208,mnf,Mundani,False,mnf,Mundani,CM,True
+2222,pkb,Pokomo,False,pkb,Pokomo,KE,True
+2226,mcu,Mambilla NT (Cameroon),False,mcu,Cameroon Mambila,CM;NG,True
+2235,BASSARDC,UNIMBƆTI NYƆƆBUNDI GBƆŊKU,False,bud,Ntcham,GH;TG,True
+2236,GEN,GƐ̃GBE BIBLIA 2014,False,gej,Gen,BJ;TG,True
+2237,MOBANT07,Yiesu Lɑbɑmɑnn Muɑl Ni,False,mfq,Moba,BF;GH;TG,True
+2238,KIJ1960,INDAGANO INYA:YA,False,jit,Jita,TZ,True
+2240,KUNDA,Bhukhu la Kuyamba,False,kdn,Kunda,MZ;ZM;ZW,True
+2241,YM,Yāu̍ Mɛ̄lɛ̄ka̍a̍,False,kss,Southern Kisi,GN;LR;SL,True
+2245,SCLBC,Bhaibhiri Idzva rechiShona rine Dhuterokanonika,False,sna,Shona,BW;ZA;ZM;ZW,True
+2248,SCLBD,Bhaibhiri Idzva rechiShona rine Dhuterokanonika,False,sna,Shona,BW;ZA;ZM;ZW,True
+2254,cou,Wamey,False,cou,Wamey,GN;SN,True
+2257,yatDBL,Nɛsɔ́g nɛ́ Nɛwa,False,yat,Yambeta,CM,True
+2259,EWERV,Biblia alo Ŋɔŋlɔ Kɔkɔe La Le Eʋegbe Me 1913,False,ewe,Éwé,GH;TG,True
+2262,SCLB,Bhaibhiri Idzva rechiShona,False,sna,Shona,BW;ZA;ZM;ZW,True
+2263,RLDB,Naawuni Kundi Kasi,False,dag,Dagbani,GH;TG,True
+2264,DBwDB,Naawuni Kundi Kasi Din Mali Diutɛrɔkanɔnikal Litaafinima,False,dag,Dagbani,GH;TG,True
+2265,Dangme,BAIBLO ALOO NGMAMI KLƆUKLƆU Ɔ,False,ada,Adangme,GH,True
+2267,NendNP03,Nend Portions - Mark,True,,,,True
+2268,DNTTP,Naaŋmen Nɔpaalaa Gane,False,dga,Southern Dagaare,BF;GH,True
+2269,OḌU,Ooḅi Adōm Aghuḍum,False,odu,Odual,NG,True
+2277,rel,Wori Haaggane Yeesso Kiriisto Miinsan Ayyinti Husube Waakh Enenyet Igooche,False,rel,Rendille,KE,True
+2299,GWR,Bbaibbuli y'oLugwere,False,gwr,Gwere,UG,True
+2304,bds,Ila⁄imbidu Gu  ⁄abu hari Burungaisoo,False,bds,Burunge,TZ,True
+2307,nld1939,Dutch Bible 1939,True,,,,True
+2312,zga,ɄTesitamenti ʉMpya mu nzovele jya Kɨkɨnga,False,zga,Kinga,MW;TZ,True
+2322,DAN77,Somi He Ɔ,False,ada,Adangme,GH,True
+2326,NYAK,Ʉlwitɨkano Ʉlʉpya,False,nyy,Nyakyusa-Ngonde,MW;TZ,True
+2332,NUJ,Endagaano Epyaha mu Lunyole,False,nuj,Nyole,UG,True
+2333,MAL10RO,Malayalam Sathyavedapusthakam 1910 Edition (Revised Orthography),True,,,,True
+2341,LUC,Ị́jọ́ Úꞌdí rĩ,False,luc,Aringa,SS;UG,True
+2344,GFBLVF,Geeshsha Maxaafa,True,gof,Gofa,ET,True
+2346,ttrNT,Mewar Alqawarang,False,ttr,Tera,NG,True
+2347,NYNT,ciNyungwe Bibliya,False,nyu,Nyungwe,MW;MZ;ZW,True
+2348,bmo,Ŋwaʼaŋlɨ Kɨǹ a Fhi,False,bmo,Bambalang,CM,True
+2351,ELBBK,Elberfelder Translation (Version of bibelkommentare.de),True,,,,True
+2355,flr,Kifuliiru,False,flr,Fuliiru,BI;CD,True
+2363,Matumbi,Matumbi is Lilaganu Lyayambi’,True,mgw,Matumbi,TZ,True
+2365,SAMIA,EBBAIBBO EMBOOSI YA NASAAE,False,lsm,Saamia,KE;UG,True
+2366,SAMDC,EBBAIBBO EMBOOSI YA NASAAE EYIRIMO EBITABO BILAANGWA DEUTEROKANONIKO,False,lsm,Saamia,KE;UG,True
+2370,Shimwela,Malagano ga Ambi,True,mwe,Mwera (Chimwera),TZ,True
+2373,Kizalamo,Bibilia ya Kizalamo,True,zaj,Zaramo / Zalamo,TZ,True
+2375,Chimakonde,Bibiliya ya Chimakonde,True,kde,Makonde,MZ;TZ,True
+2377,fuv,اَلْکَوَلْ کٜسَلْ ندٜرْ فُلْفُلْدٜ شَکَ نَاجٜىٰرِيَ,False,fuv,Fulani,CM;NG;TD,True
+2380,FUH,"Fulfulde,  Niger West",False,fuh,Western Niger Fulfulde,BF;BJ;ML;NE;NG,True
+2382,lik,AGɄMƐ WAMBƗYA,False,lik,Lika,CD,True
+2383,mur,Murle,False,mur,Murle,ET;SS,True
+2386,nwbNT,Nyaboa (Nyabwa),False,nwb,Nyabwa,CI,True
+2387,ozm,Kálar Nzyɛ̌m : Ejwán é Sáá,False,ozm,Koonzime,CM,True
+2388,ozmBad,Kálara Zyɛ̌m Edwán é mpʉ̌n,False,ozm,Koonzime,CM,True
+2395,wbi,ɄLʉfingo ʉLʉpia,False,wbi,Vwanji,TZ,True
+2396,Jib,Jibu,False,jib,Jibu,NG,True
+2399,NYB96,Biblia Umwikemo 1996,False,nyy,Nyakyusa-Ngonde,MW;TZ,True
+2405,BWL23,BIBLU WIWE LỌ 1923,False,guw,Gun,BJ;NG,True
+2421,KMA,Ŋmiŋ Nʋahaaliŋ Gbaniŋ Kɔmiŋ,False,kma,Konni,GH,True
+2424,thv,Awal n Messineɣ s Tamahaq,False,thv,Tuareg,DZ;LY;ML;NE;NG,True
+2433,moz,Mattup ki Taasuwa ere Aware,False,moz,Mukulu,TD,True
+2435,KDNT,Ku̍o̍ Delee 1999,False,krw,Western Krahn,CI;LR,True
+2441,beo,Bedamuni Bible,True,,,,True
+2442,lef,Katɔti Ɔku Kedee,False,lef,Lelemi,GH;TG,True
+2443,YM,Yegɗohiŋ Muci,False,sav,Saafi-Saafi,SN,True
+2445,BUG,Bugun New Testament,True,,,,True
+2446,DNT,New Testament in Dai,True,,,,True
+2447,SBT,Soli New Testament,True,sby,Soli,ZM,True
+2448,TAG,Tagin New Testament,True,,,,True
+2449,TUT,Tutsa New Testament,True,,,,True
+2451,LalaNT,Chipangano Chabwangu,False,leb,Lala-Bisa,CD;ZM,True
+2454,SAKNT,Sakachep New Testament,True,,,,True
+2470,Laru,Laru,False,lro,Laro,SD,True
+2484,TKU,Agano Jipya: Tafsiri ya Kusoma-Kwa-Urahisi,False,swh,Swahili,BI;KE;MZ;RW;SO;TZ;UG,True
+2493,Lumun,LON ILOPOROT LOKAPIK NATHAM NꞌREK NNONATHAM NOMAꞌROT,False,lmd,Lumun,SD,True
+2494,Katcha,TIMIꞌDI TUMMA MA ꞌBÏTÏNGNGÖ NJA RAWUS NJA YÜNAN,False,xtc,Katcha-Kadugli-Miri,SD,True
+2513,bcnNT,Wale ɗi Kpan Ɓisuwi Waltamne ɗa nye Maya,False,bcn,Bali (Nigeria),NG,True
+2514,IbaasNT,Ifɛ ́ Adakunom ni Ibaas Kushi Kufas,False,cen,Ibaas,NG,True
+2515,BRR64,Bible in Runyoro-Rutooro 1964 Version,False,nyo,Nyoro,UG,True
+2516,pcm,Holy Bible Nigerian Pidgin English,False,pcm,"Pidgin, Nigerian",NG,True
+2520,WFESD,WƆŊ FƐ̀Ì EBÒ SÌÀŊ DAYÀA,False,gol,Gola,LR;SL,True
+2521,HyamNT,Mbyeny Jok Nom di ho Hyam Ham ma̱,False,jab,Hyam,NG,True
+2522,GBA,Ádá ká Mbájá,False,krs,Gbaya (South Sudan),CF;SD;SS,True
+2523,Ndali,ULwitikano uLupya,False,ndh,Ndali,MW;TZ,True
+2536,KNB,KAKAƊU NA ƁƊAKKARKARA,False,bwr,Bura-Pabir,NG,True
+2537,IFBCL,Ubáyíbu kú Idɔma,False,idu,Idoma,NG,True
+2538,IBNO,IBAYỊBỤỤ NYA OHE OLUHYE,False,ige,Igede,NG,True
+2539,EBTP,IWE ỌNỊNỊ,False,igb,Ebira,NG,True
+2540,KBTP,FỊAFỊA BAỊBỤLỤ,False,ijn,Kalabari,NG,True
+2542,OBTP,Kịrịkẹnị Baịbụl,False,okr,Kirike,NG,True
+2546,CHK1970,Mukanda Wa Zambi 1970,False,cjk,Chokwe,AO;CD;NA;ZM,True
+2551,mnh,TAFO AYO,False,mnh,Mono,CD;CF,True
+2553,SIS,WƖA TENIŊ,False,sil,"Sisaala, Tumulung",GH,True
+2565,mngNT,Ta lə Lubə Kunmindɨ kɨ́ Sigɨ,False,mge,Mango,TD,True
+2566,Malila,ULufingo uLupwa,False,mgq,Malila,TZ,True
+2570,ENA,Edisana ñwed Abasi Ibom,False,efi,Efik,CM;NG,True
+2574,NDV,Séréel Ndút,False,ndv,Ndut,SN,True
+2575,TOBNR,ICIGHAN BIBILO,False,tiv,Tiv,CM;NG,True
+2576,tex,Tennet,False,tex,Tennet,SS,True
+2586,BUY1816,Book Hoa Matthew 1816,False,buy,Bullom So,GN;SL,True
+2587,BUYBCP,Bullom So Prayer Book Selections 1816,False,buy,Bullom So,GN;SL,True
+2598,FIA1885,"Iṅǵīl Yesū El-Messīhnilin, Markosin Fāyisīn Nagittā 1860",False,fia,Nobiin (Nòbíín),EG;SD,True
+2608,TSN1890,Bibela ea Boitsépho 1890 (Sechuana Tlhaping - Moffatt Bible),False,tsn,Setswana,BW;NA;ZA;ZM;ZW,True
+2610,XNZ1912,Enjil Yesu 1912 (4 Gospels in Nubian Kenuzi),False,xnz,Kenzi Nubian,EG;LY,True
+2615,IGL70,O̩TAKADA O̩LA O̩JO̩ 1970,False,igl,Igala,NG,True
+2616,UBV77,BAIBOL ỌFUANFON NA RẸ ỌPHỌ RẸ AWANRE KUGBE ỌPHỌ ỌKPOKPỌ,False,urh,Urhobo,NG,True
+2617,BUN1839,Sherbro Parables in Matthew and Luke 1839,False,bun,Sherbro,SL,True
+2619,ICB,Adisana Ñwed Abasi ke Ikọ Ibibio Ayio Mfịn,False,ibb,Ibibio,NG,True
+2620,agq,To kə Kəzə̀ kə̀ Fughu ko,False,agq,Aghem,CM,True
+2621,JGO,Kɑɑ Fí,False,jgo,Ngomba,CM,True
+2622,oku,Ŋwaale Feyin; Kelek Kefɛɛ,False,oku,Oku,CM,True
+2623,tvu,Hɛtɔnyɛ́ Hiɔ́sɔ,False,tvu,Tunen,CM,True
+2624,YAS,Nogálɔ ná mammana ya Gɛɔyɔ,False,yas,Nugunu,CM,True
+2630,sor,Maktubu dɨnə Mãr̰ĩduwa gɨ bii gɨ chibne,False,sor,Somrai,TD,True
+2631,RBT,UTAKADA TIJILO,False,bzw,Basa,NG,True
+2632,ẠḌI,Ạḍinya Iigbia,False,abn,Abua,NG,True
+2638,BEKDC12,Ghena ta Shala,False,kvj,Psikye,CM;NG,True
+2646,eko,Hapari Zooshapweya,False,eko,Koti,MZ,True
+2648,mdm,Gandja na Mbɨa,False,mdm,Mayogo,CD,True
+2652,MLM,Motingʼo Loko Manyien,False,luo,Luo (Kenya and Tanzania),KE;TZ,True
+2654,LUBUKUSU,EBIBILIA ENDAKATIFU,False,bxk,Bukusu,KE;UG,True
+2656,OLUPR,IBIBILIA INDAKATIFU,False,lwg,Wanga,KE,True
+2657,ABIBILIA,ABIBILIA NGAKIRO NAAJOKAK,False,tuv,Turkana,ET;KE;SS;UG,True
+2658,LUBUKUSU,EBIBILIA ENDAKATIFU DC,False,bxk,Bukusu,KE;UG,True
+2659,OLUDC,IBIBILIA INDAKATIFU DC,False,lwg,Wanga,KE,True
+2660,LSV,Literal Standard Version,True,,,,True
+2666,BBE,"Bibilia, Buk na Ŋun nagon koti luŋu a",False,bfa,Bari,SS;UG,True
+2667,EGONT74,Ohwihwim Olehe,False,ego,Eggon,NG,True
+2668,FNT1988,UPANGANO UPYA,False,fip,Fipa,MW;TZ,True
+2669,KMB80,O Mikanda Ikola,False,kmb,Kimbundu,AO;CD,True
+2676,BILKDC13,Baibuli I Leb Kumam 2013,False,kdi,Kumam,UG,True
+2677,LUE70,Luvale Bible 1970,False,lue,Luvale,AO;ZM,True
+2682,NGB87,Fana Ngbangɔ 1987,False,ngb,Northern Ngbandi,CD;CF,True
+2683,NYY,Nyakyusa Ngonde New Testament (Ulwitikano Ulupya),False,nyy,Nyakyusa-Ngonde,MW;TZ,True
+2684,SUK60,Ilagano Ipya Lya,False,suk,Sukuma,TZ,True
+2685,TLL,La Bible en Otetela (Bible K'Ekila) 1991,False,tll,Tetela,CD,True
+2686,EMB63,Embimbiliya - Bíblia Sagrada em Umbundu,False,umb,Umbundu,AO;NA,True
+2689,ZAM75,Lagano da Isambi,False,zaj,Zaramo / Zalamo,TZ,True
+2695,KBN1947,Féké Testament 1947,False,kbn,Kare,CF;CM,True
+2696,KOQ1938,Mark añgw’a téndé 1938,False,koq,Kota (Gabon),CG;GA,True
+2697,MFZ1947,Juɛl a pwɔdɛn tɛ Mak 1947,False,mfz,Mabaan,SD;SS,True
+2708,NEGAB,ŊMALƐ KRƆŊKRƆŊ LƐ,False,gaa,Ga,GH,True
+2710,EBP,AHYERƐLƐ KRONGRON,False,sfw,Sehwi,CI;GH,True
+2711,dig,Digo Bible,False,dig,Chidigo,KE;TZ,True
+2712,GBV96,Ṅmãle̱ Kroṅkroṅ Le̱,False,gaa,Ga,GH,True
+2717,NB,BAEBOLO﻿ ANZƐƐ﻿ BULUKU NWUANZANWUANZA,False,nzi,Nzima,CI;GH,True
+2722,etxNT,ɛWee ne ìTsɛm iHywas,False,etx,Eten,NG,True
+2723,hbbNT,Taɗər Alkawal Aku Nya Həba,False,hbb,Huba,NG,True
+2742,SIAFNK,Sal in a foyu ke nzak karaŋ,False,kzr,Karang,CM;TD,True
+2743,IRVOry,Indian Revised Version(IRV) Odia - NT,True,,,,True
+2752,TKR,Tsakhur,True,,,,True
+2754,YBCV,Bibeli Mimọ,False,yor,Yoruba,BJ;NG,True
+2761,NNI,Nleehano Nonaanano Imeetto; Moçambique,False,mgh,Makhuwa-Meetto,MZ;TZ,True
+2763,KBRC,Kafa Linguistics Project,False,kbr,Kafa,ET,True
+2766,BGC,Haryanvi Bible,True,,,,True
+2767,BHDNT,Bhadrawahi Bible,True,,,,True
+2770,KKB,ÎVUKU RÎA ÛVORO MWARO,False,ebu,Embu,KE,True
+2771,EKEGUSIIBBLE,EBIBILIA  ENCHENU,False,guz,Ekegusii,KE;TZ,True
+2772,Mbivlia,Mbivilia,False,kam,Kamba (Kenya),KE,True
+2773,KAMBA,MBIVILIA ŨVOO MŨSEO,False,kam,Kamba (Kenya),KE,True
+2774,KAMBA,YÎ NA MAVUKU MA NDIŨTELOKANONI,False,kam,Kamba (Kenya),KE,True
+2775,KKB,ÎVUKU RÎA ÛVORO MWARO,False,ebu,Embu,KE,True
+2776,Aii25,Ahirani Bible,True,,,,True
+2777,BPL25,Bodo Parja Bible,True,,,,True
+2779,PPt2025,Paliya Bible,True,,,,True
+2780,Saa25,Desiya Bible,True,,,,True
+2781,NTDaa20,The Gata Didayi Testament Language,True,,,,True
+2782,Haa25,Holiya Bible,True,,,,True
+2783,NTJaa20,The New Testament in Juray Soura Language,True,,,,True
+2784,Koo25,Konda Porja Bible,True,,,,True
+2785,Kaa25,Koya Bible,True,,,,True
+2786,KHMNT,Kharam New Testament,True,,,,True
+2787,Kii25,Kuvi Bible,True,,,,True
+2788,Lii25,Lodhi Bible,True,,,,True
+2789,Ngoni,Ngoni Old Testament,True,xnj,kiNgoni,TZ,True
+2790,Nii2025,Nahali Bible,True,,,,True
+2791,Noo25,Pengo Bible,True,,,,True
+2792,NTRuu20,The New Testament in Munda Language,True,,,,True
+2793,YBV,Lilangano lya Sambano,True,yao,Yao,MW;MZ;TZ;ZM,True
+2795,BCYMRK,Lemefeme da Yesu Kristo.  Markus 1915 (Bacama),False,bcy,Bacama,NG,True
+2796,MHIRuth,Waraga Ruti Dri 1938,False,mhi,Ma'di,SS;UG,True
+2802,LOG,Tandu tani adea ngoro ta tišile Marako tini. Tandu tani adea ngoro ta tišile Matayo tini.,False,log,Logoti,CD;SS,True
+2803,NIB2008,Ebaibul,False,kdj,Ng’akarimojong,KE;SS;UG,True
+2804,LBwD03,Luganda DC Bible 2003,False,lug,Ganda,UG,True
+2805,Kebu,E’di Mikindi Le’bura,False,ndp,Ndo,CD;UG,True
+2806,BRR2008,Ekitabu Ekirukwera N'Ebitabu Ebyeetwa Deturokanoniko/Apokurifa,False,nyo,Nyoro,UG,True
+2807,RIF,Ṯarifiṯ 2020,False,rif,Tarifit,DZ;ES;MA,True
+2808,LB03,Luganda Bible 2003,False,lug,Ganda,UG,True
+2815,Shisangu,IShiyanso nu Lufingo uLupya,False,sbp,Sangu,TZ,True
+2818,KabbaDkS,Dɔnɔn kə̂ Siki: Tar kə̂ aw arə təbbə,False,ksp,Kaba,CF;TD,True
+2821,SNT,Sherbro New Testament Portions,False,bun,Sherbro,SL,True
+2822,CIEC1916,Wel puat̤ ci Mak ke gor 1916,False,dib,South Central Dinka,SS,True
+2826,ƁB02,Ɓǎsɔ́ɔ̀ Báɓòɔ̀,False,bsq,Bassa,LR;SL,True
+2827,KNNT,Kɛ́lɛ Niinaí,False,bza,Bandi,GN;LR;SL,True
+2828,DHB,Aaɓi Kwì,False,dnj,Dan,CI,True
+2829,NKWJ,Nyesoaa Kuo Win Jajle,False,gbo,"Grebo, Northern",CI;LR,True
+2830,NYSWN,Nyesoa‑a̍ Win,False,klu,Klao,LR;SL,True
+2831,MNT,Wè-dɔ-wè Dɛɛ,False,mev,Mano,CI;GN;LR,True
+2832,MHB,Wálà Kìì,False,mev,Mano,CI;GN;LR,True
+2834,ꕢꕌꔳ,ꕢꕌꔳ ꕺꖃ ꕯꕮꕊ,False,vai,Vai,LR;SL,True
+2848,BEC2016,Bhiblia Yo Sawuleka,False,cce,Chopi,MZ,True
+2877,LUKA,NTETO ĨMBEGA TA BŨRĨA YANDĨKIRWE NĨ LUKA,False,mws,Mwimbi-Muthambi,KE,True
+2882,EBAIBO,EBAIBO INZIENUKHU,False,nyd,Nyore,KE,True
+2884,PIPÏLIA,PIPÏLIA,False,pko,Pökoot,KE;UG,True
+2887,MBE,KITABU KITAKATIFU,False,rag,Lulogooli,KE;TZ,True
+2888,LOGOOLI,KITABU KITAKATIFU,False,rag,Lulogooli,KE;TZ,True
+2890,NTX2007,Testamente Ledrimpswha ni Mapsalma,False,rng,Ronga,MZ;ZA,True
+2900,BGG2014,Bhibhiliya Nya Guage,False,toh,Gitonga,MZ,True
+2901,BGE2014,Bhibhiliya Nya Guage,False,toh,Gitonga,MZ,True
+2902,TSC72,Tshwa Bible,False,tsc,Tswa,MZ;ZA;ZW,True
+2913,MFANBRP,BAEBOR,False,fat,Fanti,,True
+2914,MFANBRPC,BAEBOR,False,fat,Fanti,,True
+2915,CNTV,العهد الجديد,False,cop,Coptic,EG,True
+2916,AB1970,"The Holy Bible In Alur (Lur), Revised Orthography",False,alz,Alur,CD;UG,True
+2917,LOL87,BONKANDA WA NZAKOMBA,False,lol,Mongo,CD,True
+2918,TSH96,MUKANDA WA MYIDI MUKULU,False,lua,Luba-Lulua,AO;CD,True
+2919,TSH,Mukanda wa Nzambi Dihungila Dikulukulu ne Dihungila Dihia-dihia 2003,False,lua,Luba-Lulua,AO;CD,True
+2920,NGB,WE NU GALE 1995,False,nga,Ngbaka,CD;CF;CG,True
+2921,SWC02,BIBLIA ﻿Maandiko Matakatifu Kwa Watu Wote 2002,False,swc,Congo Swahili,CD,True
+2922,ZB1978,Ziazia kekeapai,False,zne,Zande,CD;CF;SS,True
+2925,EKGE,EBIBILIA ENCHENU,False,guz,Ekegusii,KE;TZ,True
+2926,OGKBIBLE,IBUKU RĨRĨA ITHERU RĨA NGAI,False,kik,Kikuyu,KE,True
+2927,BUKUIT,BUKUIT NE TILIL,False,kln,Kalenjin,KE,True
+2928,LLLPRO,"IBIBILIA INDAKATIFU MU LUTIRICHI, LWITAKHO NENDE LWISUKHA",False,lto,Tsotso,KE,True
+2929,KIMERUBIBLE,NTETO INJEGA CIA MURUNGU KIRI ANTU BONTHE,False,mer,Kimîîru,KE,True
+2932,SEHMAT,Mattheo 1911 (Evangelho de S. Mattheus - XiPuthshu),False,seh,Sena,MW;MZ,True
+2933,CCHNT13,Cibverano Cipsa Cisena 2013,False,seh,Sena,MW;MZ,True
+2934,SOMBIBLE,KITAABKA QUDUUSKA AH,False,som,Somali,DJ;ET;KE;SO,True
+2935,BOR,KITAABA WAAQA,False,gax,"Oromo, Borana-Arsi-Guji",ET;KE;SO,True
+2936,SCLDC10,BIBLIA Yenye Vitabu vya Deuterokanoni HABARI NJEMA,False,swh,Swahili,BI;KE;MZ;RW;SO;TZ;UG,True
+2937,RSUVDC,BIBLIA KISWAHILI,False,swh,Swahili,BI;KE;MZ;RW;SO;TZ;UG,True
+2938,TESOP,AKITUTUKET NAKITETET (NEPEPEKA ISABULIN KA AWARAGASIA),False,teo,Teso,KE;UG,True
+2939,NTC2014,Testamente Leyimpsha Xichangana,False,tso,Tsonga,MZ;SZ;ZA;ZW,True
+2940,EKGE,EBIBILIA ENCHENU AMO NEBITABU BINDE BI’OKONACHA GWA KABERE,False,guz,Ekegusii,KE;TZ,True
+2941,LLLCATHOLIC,"IBIBILIA INDAKATIFU MU LUTIRICHI, LWITAKHO NENDE LWISUKHA",False,lto,Tsotso,KE,True
+2942,KIMERUBIBLE,NTETO INJEGA CIA MURUNGU KIRI ANTU BONTHE CATHOLIC EDITION,False,mer,Kimîîru,KE,True
+2943,BOR,KITAABA WAAQA KA KITAABA DEUTAROKANONIKOL/ APOKRIFA QABU,False,gax,"Oromo, Borana-Arsi-Guji",ET;KE;SO,True
+2944,RUN1967,"Bibliya Yera 1951, 1967 (Burundi)",False,run,Rundi,BI;CD;RW;TZ;UG,True
+2945,CIEC1905,Uet-Apuaté Etong Luka 1905,False,dib,South Central Dinka,SS,True
+2946,KONONT,Yataa 'a Dɔbɛnɛ Nama,False,kno,Kono (Sierra Leone),GN;SL,True
+2947,KCLB,ALLALA KUMƐ,False,knk,Kuranko,GN;SL,True
+2948,KRIO13,Krio Fɔs Oli Baybul,False,kri,Krio,GM;GN;SL;SN;US,True
+2949,LMBNT,Mȧyukunande Maŋama Maŋ,False,lia,West-Central Limba,SL,True
+2950,RMB,Mende Bible Portions,False,men,Mende,GN;LR;SL,True
+2951,MENNT,Ngowili Yekpei Numu Kpɛlɛɛ Va,False,men,Mende,GN;LR;SL,True
+2952,TMNNT,Ȧŋlemrȧnɛ Ȧfu,False,tem,Timne,GN;SL,True
+2955,KNTP,KNTP,False,kqn,Kaonde,CD;ZM,True
+2956,Tonga96,Bbaibele,False,toi,Tonga (Zambia),NA;ZM;ZW,True
+2957,BGH,Baghlayani Bible,True,,,,True
+2970,LB66,E’yo Siza Alatararu Munguniri BIBLIA,False,lgg,Lugbara,CD;UG,True
+2972,BLY-DC,Buku Loyera Catholic Edition - Chichewa,False,nya,Nyanja,MW;MZ;SZ;TZ;ZM;ZW,True
+2973,SenaMw,Sena,False,swk,Sena (Malawi),MW;MZ,True
+2974,TongaMw,Tonga Bible 1986,False,tog,Tonga (Nyasa),MW,True
+2987,NTVIL,N’KANGULU WUMOONË,False,vif,Vili,AO;CG;GA,True
+2989,nyb,Nyangbo New Testament,False,nyb,Nyangbo,GH,True
+2990,sev,"Sénoufo, Nyarafolo",False,sev,"Sénoufo, Nyarafolo",CI,True
+2991,EJK2012,Rusang rusek rapunta,False,won,Wongo,CD,True
+2992,YAL,Yalunka Matthew 1907,False,yal,Yalunka,GN;ML;SL;SN,True
+2994,mlr,Vame,False,mlr,Vame,CM,True
+2996,RKK2008,EKITABO EKIRIKWERA BAIBULI N'EBITABO EBY'OMUBONANO  APOKURUFA/DYUTROKANONIKO,False,nyn,Nyankole,RW;TZ;UG,True
+2997,ssc,Imuuma Eehya,False,ssc,Suba-Simbiti,TZ,True
+2998,ትመ15,መፅሓፍ ቅዱስ,False,tir,Tigrinya,DJ;ER;ET;SD,True
+2999,mmy,Migaama,False,mmy,Migaama,TD,True
+3000,saq,Samburu,False,saq,Samburu,KE,True
+3004,kos,Kosraean Bible,True,,,,True
+3005,azo,Əka yi Fîə,False,azo,Awing,CM,True
+3008,NLA,Kaa Shwî,False,nla,Ngombale,CM,True
+3013,VMK2021,Emakhuwa Bible,False,vmk,Makhuwa-Shirima,MW;MZ,True
+3031,ENT96,Ebrié New Testament 1996,False,ebr,Ebrié,CI,True
+3032,CB10,Cebaara Bible 2010,False,sef,"Sénoufo, Cebaara",BF;CI;ML,True
+3033,NLK10,NYƐʔƐLƐ LI KÀYORO,False,tgw,"Sénoufo, Tagwana",CI,True
+3034,BSB,Berean Standard Bible,True,,,,True
+3035,LLMI,Lilasina lilinyatii mu iyaa,False,iyx,Yaka,CG,True
+3036,CHSUNT67,Chasu New Testament 1967,False,asa,Asu (Tanzania),KE;TZ,True
+3037,II,Itesamende Imya,False,bez,Bena (Tanzania),TZ,True
+3038,GOG91,I CILAGANE CIPYA 1991,False,gog,Gogo,TZ,True
+3039,LLKWW,Luganuzi Luswanu Kuli Wanhu Wose 2002,False,gog,Gogo,TZ,True
+3040,RHAY01,Ebibulia 2001,False,hay,Haya,TZ;UG,True
+3041,IQWNT,Ya/abtór hho' 1977,False,irk,Iraqw,TZ,True
+3042,MASNT00,Kyaasa Kiiya,False,jmc,Machame,TZ,True
+3043,MAS2,BIBILLYA Mareiyo Meele a Iruva,False,jmc,Machame,TZ,True
+3044,MAS70,Osotua Ng'ejuk,False,mas,Masai,KE;TZ,True
+3045,NYi1965,Tesitamenti Umupwa 1965,False,nih,"Nyiha, Tanzania",MW;TZ;ZM,True
+3046,Nym51,Nyamwezi New Testament 1951,False,nym,Nyamwezi,TZ,True
+3047,RWK72,MMA SHIYYA,False,rwk,Rwa,TZ,True
+3048,SWZZB1921,New Testament in Swahili (Zanzibar) Revised Edition 1921,False,swh,Swahili,BI;KE;MZ;RW;SO;TZ;UG,True
+3049,SRB37,Swahili Roehl Bible 1937,False,swh,Swahili,BI;KE;MZ;RW;SO;TZ;UG,True
+3050,BG15,Bibliyeeda Ghaydit,False,tcc,Datooga,TZ,True
+3052,BNT93,A NAAŊMƖN PƲLƖ̃-TA-PAALAA,False,bfo,"Birifor, Malba",BF;CI;GH,True
+3053,DBDC,A SƐB-SÕW,False,dgi,"Dagara, Northern",BF;GH,True
+3054,JULNT94,LAYIDUKURA,False,dyu,Dyula,BF;CI;ML,True
+3055,GUX03,Gourmanchéma Bible,False,gux,Gourmanchéma,BF;BJ;NE;TG,True
+3056,BGP,U TIENU MAAMA TILI 2013,False,gux,Gourmanchéma,BF;BJ;NE;TG,True
+3057,MOONT98,KÃAB-PAALGÃ KOE-NOOGO,False,mos,Mossi,BF;CI;GH;ML;TG,True
+3058,MPBU,WẼNNAAM SEBRE 2014,False,mos,Mossi,BF;CI;GH;ML;TG,True
+3059,SBPE2011,LAWA A BOO SONBORE 2011,False,sbd,"Samo, Southern",BF,True
+3063,BIBLIACATHO,BIBLIA SINYATI TE NKUTUK OO LMAASAI NATISIRAKI ENG'EJUK NAATA MBUKUI E DITROKANONI,False,mas,Masai,KE;TZ,True
+3064,BIBLIAPRO,BIBLIA SINYATI TE NKUTUK OO LMAASAI NATISIRAKI ENG'EJUK,False,mas,Masai,KE;TZ,True
+3066,ikkBI,Ika,False,ikk,Ika,NG,True
+3068,lnl,Mbëtï Ndjapä: TÄFO MADƗ̈,False,lnl,"Banda, South Central",CD;CF,True
+3070,tcd,ONUGBÙ NYƐNYÃ VUVƆ,False,tcd,Tafi,GH,True
+3077,BKY,Bokyi Bible,False,bky,Bokyi,CM;NG,True
+3079,YBASR,Ye̳ka Onīpīpē̳ Yī O̳wo̳,False,yba,Yala,NG,True
+3080,BB98,NYANMIƐN NDƐ'N 1998,False,bci,Baoulé,CI,True
+3084,BB2005,Bisã Bible 2005,False,bqp,Busa,NG,True
+3085,BBB,Bokobaru Bible,False,bus,Bokobaru,BJ;NG,True
+3087,GAL,Galaatiya,False,fue,"Fulfulde, Borgu",BJ;NG,True
+3088,BFB,Bible Fulfulde Bénin,False,fue,"Fulfulde, Borgu",BJ;NG,True
+3089,LUE,Chilongeslo-Chalushiko-Lwakalunga Chachihya,False,lue,Luvale,AO;ZM,True
+3090,MW62,MUKANDA WANZAMBI,False,lun,Lunda,AO;CD;ZM,True
+3091,LLK,Libuka Lya Kuyela,False,nka,Nkoya,ZM,True
+3093,FBF,Dewtere Laamɗo Fulfulde Burkina Faso,False,ffm,Maasina Fulfulde,BF;CI;GH;ML;MR;NE,True
+3096,iLolo,Mazu Otchena a Mulungu,False,llb,ILolo,MW;MZ,True
+3097,KIM2,Bibilia Kui Mdedie fo Kimochi,False,old,Mochi,TZ,True
+3098,Kinga,UTESITAMENTI UMPYA,False,zga,Kinga,MW;TZ,True
+3101,ZRB,Carpathian Romani Bible,True,,,,True
+3102,KRB,Crimean Romani Bible,True,,,,True
+3103,BPFF,Baiboly Protestanta Malagasy 2011,False,plt,Malgache,MG,True
+3108,MlL,Maktub Ta Kumkajir,False,myb,Mbay,CF;NG;TD,True
+3113,ريف,ثريفيث 2020,False,rif,Tarifit,DZ;ES;MA,True
+3118,KERNT05,JAA TƏMARWAŊ,False,ker,Kera,CM;TD,True
+3130,grcF35,The Greek New Testament According to Family 35,True,,,,True
+3138,SRB,Servi Romani Bible,True,,,,True
+3145,nih,ULufingwi uLupwa,False,nih,"Nyiha, Tanzania",MW;TZ;ZM,True
+3153,gnd,"Bible, Zulgo",False,gnd,Zulgo-Gemzek,CM,True
+3156,lap,Mbede Lə Luba Kone Gə Sigi,False,lap,Laka (Chad),CF;TD,True
+3161,SHILNT10,aåaras n-tudrt - injil l-lmasiæ - løhd l-ljdid lli-iskr rbbi å-gras d-bnadm,False,shi,Tashelhayt,DZ;MA,True
+3162,SHILOT20,ssfjjijat f-mddn-inu - arratn imñlayn zå-løhd aqdim lli-iskr rbbi å-gras d-mddn-ns,False,shi,Tashelhayt,DZ;MA,True
+3167,MXX,Mahou,False,mxx,Mahou,CI;GN,True
+3170,NKM,NABUWWA KEE MALIKWA,False,aar,Afar,DJ;ER;ET,True
+3171,ኦጫ̈ቃማ,ኦራ ጫ̈ቃ ማጻ̈ፋ,False,bst,Basketo,ET,True
+3173,WLNT,WAADAA LAMMATAA,False,gax,"Oromo, Arsi",ET;KE;SO,True
+3174,ArsiDNT,Waadaa Haarawa,False,gax,"Oromo, Arsi",ET;KE;SO,True
+3175,KakHaa,Kakuu Haaraaka,False,gax,"Oromo, Borana-Arsi-Guji",ET;KE;SO,True
+3176,GAXNT,Guji Oromo New Testament 2007,False,gax,"Oromo, Borana-Arsi-Guji",ET;KE;SO,True
+3177,ሐኪግ,ሐዲስ ኪዳን በልሳነ ግእዝ,False,gez,Ge'ez (Ethiopic).,ER;ET,True
+3178,KilleC,Kille Caaqo,False,kqy,Koorete,ET,True
+3179,ShekAW,Shekki-noone Andira Wogo,False,moy,Shekkacho,ET,True
+3180,KSTM,Kuumeet Sinɔ Tɔɔnuk Ad Majaŋeeroŋk,False,mpe,Majang,ET,True
+3182,ኽምጣኣኪ,ኽምጣጘ ኣይር ኪዳን,False,xan,Xamtanga,ET,True
+3187,KURBIBLE,IBHIBHURIA ËNHOREERU ËNO ËNA IBHITABHÖ BHIA TEUTUROKANONIKO,False,kuj,Kuria,KE;TZ,True
+3188,KURBIBLE,IBHIBHURIA ËNHOREERU,False,kuj,Kuria,KE;TZ,True
+3193,جزائري,العهد الجديد باللهجة الجزائرية,False,arq,"Arabic, Algerian",DZ;MA;TN,True
+3194,GBTP,ZE'ELEGO PAALEGA,False,gur,Farefare,BF;GH,True
+3198,አማ05,አማርኛ አዲሱ መደበኛ ትርጉም,False,amh,Amharic,DJ;ET,True
+3199,መቅካእኤ,መጽሐፍ ቅዱስ - (ካቶሊካዊ  እትም - ኤማሁስ),False,amh,Amharic,DJ;ET,True
+3200,አማ2000,የአማርኛ መጽሐፍ ቅዱስ (ሰማንያ አሃዱ),False,amh,Amharic,DJ;ET,True
+3201,AnyuB,Wëël Jwøk,False,anu,Anuak,ET;SS,True
+3202,MacQul,Macaafa Qulqulluu Afaan Oromoo,False,gaz,West Central Oromo,ET;SD,True
+3203,መቅጉ,መጣፍ ቅዱስ በጉራጌኛ,False,sgw,Sebat Bet Gurage,ET,True
+3204,QulMax,Qullaawa Maxaafa,False,sid,Sidamo,ET,True
+3205,WOB,Wolaytta Bible,False,wal,Wolaytta,ET,True
+3207,KhPB,Khanty Bible Translation,True,,,,True
+3208,MNKBI,Mandinka Bible,False,mnk,Mandinka,GM;GN;GW;SN,True
+3231,WWN82,WAKALATA WANO WALI,False,mwn,Nyamwanga,MW;TZ;ZM,True
+3232,Eshimbi,Kɔŋu kə Uhumbɔkənə,False,ags,Esimbi,CM;NG,True
+3233,bfm,Ŋwàʼlè ə̀ Fèzhə̀ Mkâyn Mə̂ Fèm,False,bfm,Mmen,CM,True
+3234,bri,Mokpwe: Bakwery (New Testament),False,bri,Mokpwe,CM,True
+3235,MBTP,Ikan feg,False,mgo,Meta',CM,True
+3236,nbt,Aŋwɛʼrɛ Ebuumu Fe Nè Ngwe,False,ngn,Ngwo,CM,True
+3237,WEH,Kaa n Kəzə̀ n fəghə mə,False,weh,Weh,CM,True
+3238,ybb,Eka Eswhī,False,ybb,Yemba,CM,True
+3241,TANGALE,Tangale Bible Portions 1920-28,False,tan,Tangale,NG,True
+3242,TSA,Nzuhisini yi Nyatihi,False,tsa,Tsaangi,CG;GA,True
+3244,NGL1930,Nlakano Nahihano ni Masalmo 1930,False,ngl,Lomwe,MW;MZ,True
+3245,BHTNT,Bhattiyali NT,True,,,,True
+3248,kiaGRB,Wa tii vwalla ge jin̰al,False,kia,Kim,TD,True
+3251,KPKNT,KARÚK-PËRIM KAWALU Nouveau Testament,False,mfv,Mandjak,GM;GW;SN,True
+3252,BrnNTLtn,Handr Taara,True,bwo,Borna,ET,True
+3254,BLT,Biblia Livre Para Todos,True,,,,True
+3256,Kabwa,Eriragano Erihya,False,cwa,Kabwa,TZ,True
+3264,BKC,Bibiliya mu Kirundi coroshe,False,run,Rundi,BI;CD;RW;TZ;UG,True
+3272,god,GOD - u2,False,god,Godié,CI,True
+3273,NEY,Neyo,False,ney,Neyo,CI,True
+3274,ntk,Eriiraghano Eriihë,False,ntk,Ikoma-Nata-Isenye,TZ,True
+3282,KED1946,Omulago Muhya 1946 (Kikahindurwa mu Kikerewe),False,ked,Bukerebe (Kerebe),TZ,True
+3284,bet,BdG2,False,bet,"Bété, Guiberoua",CI,True
+3291,VBL,Versión Biblia Libre,True,,,,True
+3293,BDCB,Kalate Zambe Nnomo a Mfefe Mfefé Nkôñelan,False,bum,Bulu (Cameroon),CM,True
+3294,BMa,NTSHOB NSI,False,byv,Medumba,CM,True
+3296,KK2008,Kulimama Kwakupya,False,nka,Nkoya,ZM,True
+3297,RSM,Meitei New Testament (Roman Script),True,,,,True
+3304,KMN,Kawvun mə Mbrew kə Nyeme,False,lme,Pévé,CM;TD,True
+3305,MWW04,Mukanda Wajila Wanzambi,False,lun,Lunda,AO;CD;ZM,True
+3306,EB14,EƲEGBE BIBLIA,False,ewe,Éwé,GH;TG,True
+3307,hauAS,أَتَّوْرَتْ دَ أَنَّبَاوَا,False,hau,Hausa Arabic script,BF;BJ;CM;NE;NG;TD,True
+3308,IRQW,Biblía Axweesantá Hhohho' ar Mungú 2004,False,irk,Iraqw,TZ,True
+3310,SINYATI,BIBLIA SINYATI,False,mas,Masai,KE;TZ,True
+3312,KMNT,Nouvo Testaman Kreol Morisien Harmonisation NTPS KM,False,mfe,Mauritian,MU,True
+3313,KMOTPOR,Kreol Morisyen OT Portions,False,mfe,Mauritian,MU,True
+3315,SCE2013,LAWA A BOO SONBORE,False,sbd,"Samo, Southern",BF,True
+3321,APD1927,Ingīl Marqus 1927,False,apd,"Arabic, Sudanese (Latin)",CF;EG;ER;ET;LY;SD;TD,True
+3325,MW2019,Mawu a Mulluku,False,lon,"Lomwe, Malawi",MW;MZ,True
+3327,urdgvh,Urdu Geo Version (Hindi Script),True,,,,True
+3330,NTB,Esaa-líat ɛ́ péná,False,bkh,Bakoko,CM,True
+3331,CUVnt,Ma Majawa Waya,False,cuv,Cuvok,CM,True
+3332,NGI,Aŋwaʼanayn Uso Fey,False,ngj,Ngie,CM,True
+3333,pnz,Bélaɓay a Gáŋvbôn,False,pnz,Pana,CF;CM;NG;TD,True
+3334,isu,Isu New Testament,False,szv,Isu,CM,True
+3335,ISVNag,Indian Standard Version (ISV) Nagamese,True,,,,True
+3338,KY,Kàddug Yàlla,False,wol,Wolof (Senegal),GM;GW;ML;MR;SN,True
+3340,KTJT,كتب تمازغت توتنسية,False,jbn,Nafusi,LY;TN,True
+3342,VRB,Власитский перевод,True,,,,True
+3348,LRB,Lovary Romany Bible,True,,,,True
+3349,BEZ,ULufingo uLupiya,False,bez,Bena (Tanzania),TZ,True
+3351,ApalGENT,"Genesis, Exodus, and the New Testament in the Apal Language of Papua New Guinea",True,,,,True
+3353,TAVETA,"Sumu Yedi ya Isa Masiya 1906, Kitamo 1897, Malumbo 1905",False,tvs,Taveta,KE;TZ,True
+3354,FEB,免费的易读圣经 Free Easy-to-read Bible,True,,,,True
+3362,KNT77,Kakwa New Testament 1977,False,keo,Kakwa,CD;SS;UG,True
+3364,HavOTS,Havai Old Testament Selections,True,,,,True
+3365,spaPdDpt,"Spanish Bible, Palabla de Dios para ti",True,,,,True
+3369,RIMRC,Kirimi Interconfessional Bible,False,rim,Nyaturu,TZ,True
+3379,(Boi) Tiyaa,Boi (Tiyaa) NT Portions,False,tyy,Tiyaa,NG,True
+3380,BUX (Boghom),BUX (Boghom) NT Portions,False,bux,Boghom,NG,True
+3381,MGJ,Abureni,True,mgj,Abureni,NG,True
+3382,ofu,Efutop LP New Testament Portions,False,ofu,Efutop,NG,True
+3383,ALF,Alege LP NT Portions,False,alf,Alege,NG,True
+3384,AGS,Alkitab Gratis Untuk Semua,True,,,,True
+3388,mfn,Ofonokpan LP NT Portions,False,mfn,"Mbembe, Cross River",NG,True
+3390,HRR-UNI,Ombeipera,False,her,Herero,AO;BW;NA,True
+3396,kaj,Jju,False,kaj,Jju,NG,True
+3401,APD1978,Kitaab al Vahd aj Jadid 1978,False,apd,"Arabic, Sudanese (Latin)",CF;EG;ER;ET;LY;SD;TD,True
+3402,HBN,Kitham Gina Giyaŋ 1966,False,hbn,Heiban (Sudan),SD,True
+3403,OTR1966,ŋuɽun ŋun ŋiya ŋun ŋikaiilo elo 1966,False,otr,Otoro,SD,True
+3415,PUU1992,La Sainte Bible en Langue Yipunu,False,puu,Punu (Ipounou),CG;GA,True
+3421,ABM,Abanyom LP New Testament Portions,False,abm,Abanyom,NG,True
+3422,NDD Nta,Nde-Nsele-Nta LP NT Portions,False,ndd,Nde-Nsele-Nta,NG,True
+3427,TCENT,The Text-Critical English New Testament,True,,,,True
+3428,grcTCGNT,Text-Critical Greek New Testament,True,,,,True
+3430,Olulumo-Ikom,Nkome LP NT Portions,False,iko,Olulumo-Ikom,NG,True
+3431,BANGI,"Mbengu Etemu, Mabandela, Nzembo, Bantete 1916",False,bni,Bangi,CD;CF;CG,True
+3433,XSN,Luka,True,xsn,Sanga,NG,True
+3434,Csa,MUKANDA USANDU WA ZAMBI 1975,False,cjk,Chokwe,AO;CD;NA;ZM,True
+3438,MYE,Bibili 1927 (Omyene),False,mye,Myene,GA,True
+3439,ATWDB,KYERƐW KRONKRON,False,twi,Twi,,True
+3440,RATB,KYERƐW KRONKRON,False,twi,Twi,,True
+3448,GWG,Linjil i Yesu Krista Suñu Borom bi 1907,False,wof,Wolof (Gambia),GM;SN,True
+3455,JER,Azelle New Testament Portions,False,jer,Jere,NG,True
+3456,MTL,Tel NT Portions,False,mtl,Montol,NG,True
+3457,OYBC2022,Orthodox Yiddish Brit Chadasha New Testament,True,,,,True
+3461,povB,BIBLIA - traduson antigu in Krioulo,False,pov,"Crioulo, Upper Guinea",GM;GW;SN;US,True
+3462,SBK,Ilagano Ipya,False,sbk,Safwa,TZ,True
+3473,KOQ,Kota Kiwoyeti (koq) NT Portions,False,koq,Kota (Gabon),CG;GA,True
+3474,MDT,Obamba Kiwoyeti (mdt) NT Portions,False,mdt,Mbere,CG;GA,True
+3475,NZB,Yinzebi NT Kiwoyeti,False,nzb,Yinzébi,CG;GA,True
+3476,SWJ,Gisir,False,swj,Gisir (Eshira),GA,True
+3477,teg,Tege Kiwoyeti (teg) NT Portions,False,teg,Teke-Tege,CG;GA,True
+3478,WUM,Wumbu Kiwoyeti (wum) NT Portions,False,wum,Wumbvu,CG;GA,True
+3485,PYM : Gam,PYAM NT Portions,False,pym,Fyam,NG,True
+3489,ZMB,Zimba Nouveau Testament Portions,False,zmb,Zimba,CD,True
+3494,KKG20,Khoekhoegowab Elobmîs 2020,False,naq,Khoekhoe,BW;NA;ZA,True
+3497,KitWoy,Kitaaba Woyyuu,False,gax,"Oromo, Arsi",ET;KE;SO,True
+3498,KeesKita,KEESAMMI KITAABA,False,hdy,Hadiyya,ET,True
+3499,AFR20,Die Bybel 2020-vertaling,False,afr,Afrikaans,BW;MZ;NA;ZA;ZM;ZW,True
+3500,ZUL20,IsiZulu 2020,False,zul,Zulu,BW;LS;MZ;SZ;ZA,True
+3501,bkwNT,Ɛbhɛŋ ɛ na Bes,False,bkw,Bekwel,CG;CM;GA,True
+3504,GBLNT,Gamit New Testament,True,,,,True
+3507,BudKoya,Agɔmɔ ngia wʉ Ɨtakɨ-takɨ,False,buu,Budu,CD,True
+3509,KMW,Ɔngana á Kɛ̌kɛ,False,kmw,Komo,CD,True
+3526,XHO1902A,"Incwadi Yeziba̔lo Ezingcwele 1864, 1902 (Xhosa Appleyard)",False,xho,Xhosa,BW;LS;ZA,True
+3529,Chakfem,Chakfem (ckyc),False,cky,Cakfem-Mushere,NG,True
+3540,HSB,Hindi Standard Bible,True,,,,True
+3542,BNT,Gakayiti an Urün aŋ,False,tnr,Ménik,SN,True
+3557,QUTTOT22,Nuevo Testamento K'iche' of Totonicapan,True,,,,True
+3564,GEK,Ywom NT Portions Luke,False,gek,Yiwom,NG,True
+3582,MNT,Mɨkan wu Fi,False,nge,Ngemba,CM,True
+3583,LNB,ŊWÀʼ NYÙY,False,lns,Lamnso’,CM;NG,True
+3584,MPU,Myēnj phōn mí Zɛɛ̄mb,False,mgg,Mpumpong,CG;CM,True
+3590,MBT2023,Ala Ya Salatikan Kula Kitabu,False,mzj,Manya,GN;LR,True
+3593,GOURU,Kazambale lé Sebe Sauunu 1979,False,goa,Guro,CI,True
+3594,LOBIRI,Thãgbaa Ʋlfɛ Pha 1985,False,lob,Lobi,BF;CI;GH,True
+3601,SothoNT,Baasraak Sotho NT,False,sot,Southern Sotho,LS;ZA,True
+3602,CXB24,Contemporary Xhosa Bible 2024,False,xho,Xhosa,BW;LS;ZA,True
+3603,ZuluNT,Baasraak Zulu New Testament Bible,False,zul,Zulu,BW;LS;MZ;SZ;ZA,True
+3604,SNQ,Sangu: Isangu (snq) NT,False,snq,Sangu,GA,True
+3605,PKP,Piibel Kõigile,True,,,,True
+3606,Arli,Romani Arli Bible,True,,,,True
+3607,Chergash,Bible in Chergash Romani,True,,,,True
+3608,Gurbet,The Word of God in Gurbet,True,,,,True
+3614,MA23,Mapangano Alomba 1923,False,nse,Nsenga,MZ;ZM;ZW,True
+3618,SAGALLANT,UVORO GHWALOLI KWA WANDU WOSE,False,tga,Sagalla,KE,True
+3621,bho,Bhojpuri NT (BSI),True,,,,True
+3622,GYZ,Geji New Testament Portions,True,gyz,Geji,NG,True
+3625,PLJ,Zul,True,,,,True
+3630,MKF,Miyawa,False,mkf,Miya,NG,True
+3636,AlisIRonNT,Findel i DeeƁwe Ti Alis i Ron,False,cla,Ron,NG,True
+3641,WJI,Warji,False,wji,Warji,NG,True
+3644,JGK,Jarawa,False,jgk,Gwak,NG,True
+3655,ary,Northern Mor N T,False,ary,Moroccan Arabic,DZ;EH;MA,True
+3659,SUQ,Suri Latin,False,suq,Suri,ET;SS,True
+3660,CAB23,Contemporary Afrikaans Bible 2023,False,afr,Afrikaans,BW;MZ;NA;ZA;ZM;ZW,True
+3661,KBG,Wɛ Tɔnɔ,False,xsm,Kasem,BF;GH,True
+3672,swb,Ha`bari Ndjema ya I Maore,False,swb,"Comorian, Maore",FR;KM;MG;RE;YT,True
+3678,gab,Gabri Maja,False,gab,Gabri,TD,True
+3681,kya,Iimuuma Iinyaaya,False,kya,Kwaya,TZ,True
+3684,MGS1937,Kilagano kya hino 1937,False,mgs,Manda (Tanzania),MW;TZ,True
+3689,jit,Indagano Inyaaya mu-Chijita,False,jit,Jita,TZ,True
+3691,TUP,Tupuri Bible,False,tui,Tupuri,CM;TD,True
+3692,bwj,Buamu Laa,False,bwj,"Bwamu, Láá Láá",BF,True
+3695,CKL,Kibaku NT,False,ckl,Cibak,NG,True
+3697,cwt,Kwatay (Kuwaataay),False,cwt,Kuwaataay,SN,True
+3705,bcy,Ɓwaatiye New Testament,False,bcy,Bacama,NG,True
+3711,TNG1978,Kebu go dore go herua 1978,False,tng,Northern Gabri,TD,True
+3712,BTP25,Bhumiya Bible,True,,,,True
+3713,GMi25,Gawli Bible,True,,,,True
+3714,PSP25,Powari Bible,True,,,,True
+3715,NTRPT23,Relli New Testament,True,,,,True
+3716,Srr25,Sikkiligar Bible,True,,,,True
+3721,LLA,Lala NT,False,lla,Lala-Roba,NG,True
+3722,WVe25,Waghri Booli Bible,True,,,,True
+3725,NOCV,ክታበ ቁልቁሉ፣ ሂካ አመያ ሃራ,False,gaz,West Central Oromo,ET;SD,True
+3726,ncr,Nchane (Ncane),False,ncr,Ncane,CM,True
+3729,nie,Ɛrgɨ Ɓani,False,nie,Niellim,TD,True
+3749,mho,Mashi,True,mho,Mashi,AO;NA;ZM,True
+3751,SRR23,NQAARIIT NE ROOG,False,srr,Serer (Senegal),GM;SN,True
+3752,kus_gh,GH,False,kus,Kusaal,BF;GH;TG,True
+3758,MGSPSA,Zaburi sya Daud 1913 (Tanzania),False,mgs,Manda (Tanzania),MW;TZ,True
+3759,KIB1967,Ṯikiṯaḏiza Ṯiaŋ 1967,False,kib,Koalib,SD,True
+3766,LAG,Mʉháko Mufya,False,lag,Langi,TZ,True
+3767,CINDAU NT,NOVO TESTAMENTO EM NDAU,False,ndc,Ndau,MZ;ZW,True
+3771,ZAK,Eriiragano Eriihya,False,zak,Zanaki,TZ,True
+3772,Ruth BGD,The  Book or Ruth in Guge,False,gde,Gude,CM;NG,True
+3773,GB,Bible en Guidar,False,gid,Gidar,CM;TD,True
+3774,GBD,Bible en Guidar,False,gid,Gidar,CM;TD,True
+3776,JOB,Jɔ Biibili ki,False,jow,Jowulu,BF;ML,True
+3777,HWO,Hona Bible,True,hwo,Hwana,NG,True
+3781,Kwere,Lagano da Sambi kwa Wanhu Wose,True,cwe,Kwere,TZ,True
+3784,gsl,Gusiilaay,False,gsl,Gusilay,SN,True
+3789,NTDNB24,The New Testament in Danu Language,True,,,,True
+3790,NTRKB25,The New Testament in Rakhine Language,True,,,,True
+3791,NTDWB24,The New Testament in Dawei Language,True,,,,True
+3816,BUI1947,Mina ma Nzambe 1947,False,bui,Bongili,CG,True
+3817,KP25,Kolami Bible,True,,,,True
+3820,NTVII24,The Vagiri New Testament,True,,,,True
+3821,hatbsa,Haitian Bible,True,,,,True
+3828,bax,Bamun - 1988 CAM (NT) Non Drama,False,bax,Bamun,CM,True
+3834,asj,Sari,False,asj,Sari,CM,True
+3837,btg,Nouveau Testament bété de Gagnoa,False,btg,"Bété, Gagnoa",CI,True
+3842,LOT1969,Ecorit Aŋejuk 1969,False,lot,Otuho,SS;UG,True
+3844,turytc,Literal Turkish Bible Translation (YTC),True,,,,True
+3845,CSOB24,Contemporary Southern Sotho Bible 2024,False,sot,Southern Sotho,LS;ZA,True
+3846,CZB24,Contemporary Zulu Bible 2024,False,zul,Zulu,BW;LS;MZ;SZ;ZA,True
+3847,sxw,"Gbe, Saxwe - 2022 WBT (NT) Non Drama",False,sxw,"Gbe, Saxwe",BJ,True
+3848,ntm,"Naténi - WBT (NT,GEN,EXO) Non Drama",False,ntm,Naténi,BJ,True
+3849,beh,"Biali - WBT (NT, GEN) Drama",False,beh,Biali,BF;BJ;TG,True
+3850,beh,"Biali - WBT (NT, GEN) Non Drama",False,beh,Biali,BF;BJ;TG,True
+3854,CSEB24,Contemporary Sepedi Nothern Sotho Bible 2024,False,nso,"Sotho, Northern",BW;ZA,True
+3855,CTSB24,Contemporary Tsonga Bible 2024,False,tso,Tsonga,MZ;SZ;ZA;ZW,True
+3862,BNG1895,"Biblia Benga 1895, 1926",False,bng,Bɛŋga,GA;GQ,True
+3867,አማ54,መጽሐፍ ቅዱስ (የብሉይና የሐዲስ ኪዳን መጻሕፍት),False,amh,Amharic,DJ;ET,True
+3876,ponPD,Old Pohnpeian Bible,True,,,,True
+3879,RUPF,Aromanian Frasherot Bible,True,,,,True
+3880,IKZ,Ʉbhʉragɨ Ubhuhya,False,ikz,Ikizu,TZ,True
+3887,LUC,Bụ́kụ̃ Ị́jọ́ ụ̃kụ rĩ agá tõwú rĩ kî,False,luc,Aringa,SS;UG,True
+3902,BDZU,Bible Dzùùngoo Unicode,False,dnn,Dzùùngoo,BF,True
+3904,SOM,"Marko 1915, Yohana 1929 (Ogaden-Harti Somali)",False,som,Somali,DJ;ET;KE;SO,True
+3910,SPBT,The New Testament in Shwe Palaung,True,,,,True
+3912,CTWB24,Contemporary Tswana Bible 2024,False,tsn,Setswana,BW;NA;ZA;ZM;ZW,True
+3917,SCC,Saaho Cusub Cahde,False,ssy,Saho,ER;ET,True
+3919,buuN,Mʉkpanganɨa nɔ Agɔmɛ ɔ Ɨtakɨtakɨ,False,buu,Budu,CD,True
+3922,MHW1986,Testamende Ghomupya Nopisalemi 1986,False,mhw,Mbukushu,AO;BW;NA;ZM,True
+3924,TSV,New Testament in Mitsogo,False,tsv,Tsogo,GA,True
+3928,YOM-CD,Bible en Kiyombe,False,yom,Yombe,AO;CD;CG,True
+3929,YNS,Bible Iyansi,True,yns,Yansi,CD,True
+3933,DBD,Dadiya NT,False,dbd,Dadiya,NG,True
+3934,ICH,Etkwen New Testament,False,ich,Etkywan,NG,True
+3935,EDO96,Edo Bible (E Baibol Ẹdo) Version 1996,False,bin,Edo,NG,True
+3936,IBY,Ibani New Testament,False,iby,Ibani,NG,True
+3937,ikv-NG,Ehua,False,ikv,Iku-Gora-Ankwa,NG,True
+3938,KCQ,Kamo New Testament,False,kcq,Kamo,NG,True
+3939,PUNNT,Punu NT,True,puu,Punu (Ipounou),CG;GA,True
+3940,NdeBV,Ndendeule,True,dne,Ndendeule,TZ,True
+3941,MaBV,Matengo Bible Version,True,mgv,Matengo,TZ,True
+3946,LGA,Luqa Full Bible,True,,,,True
+3949,omi,Omi Traduction 2,False,omi,Omi,CD,True
+3951,YAF,Yaka NT,True,yaf,Yaka,AO;CD,True
+3953,MKB,BIBLIYA NTAGATIFU OMU MASHI,True,shr,Shi,BI;CD;RW,True
+3956,GLW,Glavda NT Portion,True,glw,Glavda,CM;NG,True
+3958,XuMats,Xummaanchu Matsaafa,False,ktb,Kambaata,ET,True
+3970,SomGar24,Somau Garia New Testament Portions,True,,,,True
+3971,BBTP,Apam Foforɔ,False,abr,Abron,CI;GH,True
+3972,BKV,Bewkwarra Bible OT Portions,False,bkv,Bekwarra,NG,True
+3973,OTMpBL2020,Chimpoto,True,mpa,Mpoto,MW;TZ,True
+3974,NTNHBL,Ndondehamba,True,njd,Ndonde Hamba,TZ,True
+3976,FKK,Fali Mijilu kirya NT Portions,False,fkk,Kirya-Konzel,NG,True
+3977,MaQu,Mataafa Qulqulloota,False,kxc,Konso,ET,True
+3978,DuyaNT,Ibibemuwe-Num Iyiki Ifa Ru Dũya,False,ldb,Duya,NG,True
+3979,Wrr,Waddar,True,,,,True
+3981,FIR,Firan NT Portions,False,fir,Firan,NG,True
+3982,KNI,Kanufi NT Portions,False,kni,Kanufi,NG,True
+3983,YER,Tarok Bible,True,yer,Tarok,NG,True
+3988,TIG24,Tigrigna:  Contemporary Tigrinya Bible 2024,False,tir,Tigrinya,DJ;ER;ET;SD,True
+3989,UtMain,ut-Mai'n Scripture portions,False,gel,ut-Ma’in,NG,True
+3990,KTn,Koda Translation,True,,,,True
+3991,Iceve-Maci,Iceve,False,bec,Iceve-Maci,CM;NG,True
+3992,EKA-011,Ekajuk Scriptures Bible Portions,True,eka,Ekajuk,NG,True
+3993,Olulumo-Ikom,Olulumo,False,iko,Olulumo-Ikom,NG,True
+3994,NBB,Ndoe,False,nbb,Ndoe,NG,True
+3995,NBP,Nnam,False,nbp,Nnam,NG,True
+3996,NDD-011,Nde,False,ndd,Nde-Nsele-Nta,NG,True
+3997,tbt,Echilaano Chiyayaya,False,tbt,Tembo,CD,True
+3998,UTA,Itang,False,uta,Otank,NG,True
+4009,KWM,Etestemente Epe ✠ 1951,False,kwm,Oshikwambi,,True
+4029,EI,Ereyga Illaahey Axdiga Cusub,False,som,Somali,DJ;ET;KE;SO,True
+4030,HBe,Hruso Bible,True,,,,True
+4031,الحسانية,الكتاب المقدس بلغة الحسانية,True,mey,Hassaniyya,DZ;EH;MA;ML;MR;NE;SN,True
+4034,THUR,Buke mökö kï ï Cïk na Cön ëka kï ï Cïk na Nyen,False,lth,Thur,UG,True
+4039,sce,DongXiang Sheng Jing NT,True,,,,True
+4041,ጋሞመጽቅበፊደል,ጋሞ ማጻፋ,True,gmv,Gamo,ET,True
+4044,GFBEVF,ጌሻ ማፃፋ,True,gof,Gofa,ET,True
+4046,SUB,Shona BIBLE,False,sna,Shona,BW;ZA;ZM;ZW,True
+4049,NNBII,BAIBULO INONGWA INUNU,False,nyy,Nyakyusa-Ngonde,MW;TZ,True
+4050,Gnn25,Gowlan Bible,True,,,,True
+4051,Sii25,Siddi Bible,True,,,,True
+4052,GHN,Kubokota Adapt New Testament,True,,,,True
+4053,Luna_NT,Disambi Dipyadipya,False,luj,Luna,CD,True
+4054,BSP25,Bhilali Bible,True,,,,True
+4055,Dii25,Dhankavi Bible,True,,,,True
+4057,MtP25,Mehra Bible,True,,,,True
+4058,SHINT10,اغاراس ن-تودرت - ءينجيل لّماسيح - لعهد لّجديد لّي-يسكر ربّي غ-گراس د-بنادم,False,shi,Tashelhayt,DZ;MA,True
+4064,BayNTEth,አማቶ ኦኡሱብ,True,bsw,Baiso,ET,True
+4065,RTu2025,Rana Tharu Bible,True,,,,True
+4066,nkn,Nkangala Bible Translation,True,nkn,Nkangala,AO,True
+4068,BayNT,Ammato O?usub,True,bsw,Baiso,ET,True
+4071,MOF89,Ma Zhiklè,False,maf,Mafa,CM;NG,True
+4074,DFBLVL,Geeshsha Mas'aafaa,False,dwr,Dawro,ET,True
+4075,DFBE,ጌሻ ማጻፋ,True,dwr,Dawro,ET,True
+4077,lyn,Luyana Bible Translation,True,lyn,Luyana,AO;NA;ZM,True
+4080,JBT,Meeŋka Jooŋ,True,jum,Jumjum,SD;SS,True
+4082,GD,Gúloku Díino,False,bcz,Bainouk-Gunyaamolo,GM;GW;SN,True
+4083,mfmTNT,Ndǝshiguˈyar Foɗǝu Ənga Thlǝr Camaˈyar,True,mfm,Marghi South,NG,True
+4084,wja,Waja,True,wja,Waja,NG,True
+4086,BNT,BIBILIYA NA KITUBA,False,mkw,Kituba,CG,True
+4087,BE1978,iBhayibhili Elingcwele 1978,False,nde,North Ndebele,BW;ZM;ZW,True
+4090,APD2024,كِتاب العَهد الجَّديد مِن الكِتاب المُقَدَّس,False,apd,"Arabic, Sudanese",CF;EG;ER;ET;LY;SD;TD,True
+4099,GDF,Gava NT,True,gdf,Guduf-Gava,CM;NG,True
+4100,SUR-x-MUPUN,Manji Yiljep,True,sur,Mwaghavul,NG,True
+4113,UTR,Etulo NT,True,utr,Etulo,NG,True
+4118,NG1898,Ivangeli lika Marko 1899,False,xnj,kiNgoni,TZ,True
+4119,KOO1914,Enjiri Nkokuyahandikawa Marako 1914,False,koo,Konzo,CD;UG,True
+4121,NUJ,Endagaano Epyaha ko n'ebitabo ebindi eby'Endagaano Ekayire mu Lunyole,False,nuj,Nyole,UG,True
+4122,YAO1880,Anjili Ja Mattayo 1880,False,yao,Yao,MW;MZ;TZ;ZM,True
+4125,guj,KITAABA WOYYICHA,True,gax,"Oromo, Borana-Arsi-Guji",ET;KE;SO,True
+4129,Lubwisi,Ndaghaano Mpyaka na bimui haa Bitabo byꞌomu Ndaghaano Nkulu mu Lubwisi,False,tlj,Talinga-Bwisi,CD;UG,True
+4130,GylNTEth,ጋይል አዲስ ኪዳን,True,gyl,Gayil,ET,True
+4131,YemNTEth,ጋዶ ቴያ,True,jnj,Yemsa,ET,True
+4132,YemsaNTL,Gaddo Teyya,True,jnj,Yemsa,ET,True
+4133,MeloNTL,Oroth Caaqo,True,mfx,Melo,ET,True
+4134,MeloNTEth,ኦሮ ጫቆ,True,mfx,Melo,ET,True
+4135,OydaNTL,Oyda New Testament,True,oyd,Oyda,ET,True
+4136,OydaNTE,ኦይዳ አዲስ ኪዳን,True,oyd,Oyda,ET,True
+4138,hlb,Halaba New Testament,True,alw,Alaba-K’abeena,ET,True
+4150,Bakwé,"Kuö Dëdrä, Jenɛɛsë, Rutë",False,bjw,Bakwé,CI,True
+4154,LMB2024,IBAYIBOLO 2024,False,lai,Lambya,MW;TZ;ZM,True
+4180,MZQ,Alkitab Tambee,True,,,,True
+4182,MRK,The Gospel Written By Mark In Purum,True,,,,True
+4183,rhgB,Rohingya Bible Portions,True,,,,True
+4184,RST,The New Testament in Rohingya,True,,,,True
+4209,gbvnt,New Testament,True,,,,True
+4227,ZIN,Endagano Eénsha omu Chiziinza,False,zin,Zinza,TZ,True
+4235,KWN,The Bible in Rukwangili 1987 (Namibia),False,kwn,Kwangali,AO;NA,True
+4239,driNT,Lalks Na'Sila̱ Lalk Gigk Poune C'Lela,False,dri,C’lela,NG,True
+4240,KOO1978,Nyamuhanga Akatsangira Oyukatsira 1978 (Luke 15),False,koo,Konzo,CD;UG,True
+4255,IDC-NG,Ajigha NT Portion,True,idc,Ajiya,NG,True
+4264,NTTL25,Tichurong,True,,,,True
+4271,YMP,Yamap,True,,,,True
+4274,ORX,Oro Elile n̄wid Abazi,False,orx,Oro,NG,True
+4276,txy TEC,Nsia yi Mbwe,False,tyx,Teke-Tyee,CG,True
+4283,ETB,Edisana Nwad Abasi,False,etb,Etebi,NG,True
+4287,IDE,Edisana Ŋwed Abasi,False,ide,Idere,NG,True
+4289,ITM,Edisana Ŋwed Abasi,False,itm,Itu Mbon Uzo,NG,True
+4290,ITW,Adisana Ŋwed Abasi Ito,False,itw,Ito,NG,True
+4293,KCN,Baibuli Alnedif Nubi,False,kcn,Nubi,CD;KE;SS;UG;US,True
+4300,NKZ,Nsasana Ŋwed Idem-Mbubod,False,nkz,Nkari,NG,True
+4302,IBN,Adisana N̄kwed Abasi,False,ibn,Ibino,NG,True
+4307,UKQ,Edisana Ŋwed Abasi Ukwa,False,ukq,Ukwa,NG,True
+4308,UYA,Anwed Daŋaraŋ A-Uwase,False,uya,Doko-Uyanga,NG,True
+4313,DZN,Bibliya e satu Dzando,False,dzn,Dzando,CD,True
+4314,GIX,Mbeti na ndi Gilima,False,gix,Gilima,CD;CF,True
+4315,KDG,Ikitabo Kitakatifu Seba,False,kdg,Seba,CD;ZM,True
+4316,KDL,Tsikimba OT,True,kdl,Tsikimba,NG,True
+4317,KEL,Bibele end'ekila,False,kel,Kela,CD,True
+4319,KPL,Mbeti na nzlele Kpala,False,kpl,Kpala,CD;CF,True
+4320,LIE,Bibliya Mosantu Likila,False,lie,Likila,CD,True
+4321,LIZ,Bibiliya E Santu Libinza,False,liz,Libinza,CD,True
+4323,NDW,Bibliya Mosantu Ndobo,False,ndw,Ndobo,CD,True
+4325,NZD,Mosantu biblia Nzadi,False,nzd,Nzadi,CD,True
+4330,SOO,Bibiliya la Santu,False,soo,Songo,CD,True
+4331,TSW,Tsishingini (tsw) OT,True,tsw,Tsishingini,NG,True
+4338,EBG,Elille Nwed Anin̄ Ahta-Etie,False,ebg,Ebughu,NG,True
+4339,EKI,Edisana Ŋwed Abasi Eki,False,eki,Eki,NG,True
+4344,ASG,Cishingini Agwara Kambari [asg],True,asg,Cishingini,BJ;NG,True
+4346,BIZ,Bibliya Mosantu Baloi,False,biz,Baloi,CD;CG,True
+4348,NTLTB25,The New Testament in Lente Language,True,,,,True
+4349,GQA,Ga'anda,True,gqa,Ga’anda,NG,True
+4352,GBANU,Écritures en Banou 1939,False,gbv,Gbanu,CF,True
+4353,MADI-URL,Búkù Eꞌyo Oꞌdɨ nɨ vɨɨ alóo ɨnɨ Búkù Yona nɨ vɨɨ be,False,snm,"Ma’di, Southern",UG,True
+4354,mfo-latn,Mbembe Okohm,True,mfo,Mbe,NG,True
+4356,KWAMBA,"Matayo, Bikoluwa ndia Bhakwenda",False,rwm,Amba,CD;UG,True
+4357,HWO,Hona Bible,True,hwo,Hwana,NG,True
+4358,zbu,Bu New Testament,True,zbu,Bu (Bauchi State),NG,True
+4359,KHJ,Kuturmi NT Portion,True,khj,Kuturmi,NG,True
+4362,AQK,Aninka NT Portion,True,aqk,Aninka,NG,True
+4363,bvm,Ŋwɔʼnə-Məŋkaa-Fefe,False,bvm,Bamunka,CM,True
+4364,BVW,Boga New Testament Portion,True,bvw,Boga,NG,True
+4365,KRH,Akurumi NT Portion,True,krh,Kurama,NG,True
+4369,NENO,Neno: Maandiko Matakatifu 2024,False,swh,Swahili,BI;KE;MZ;RW;SO;TZ;UG,True
+4372,NTBBL2025,Bondei,True,bou,Bondei,TZ,True
+4373,BBT,Bwile Bible Translation,True,bwc,Bwile,CD;ZM,True
+4375,NTNBL2025,Ndwewe New Testament,True,nww,Ndwewe,TZ,True
+4377,ARINGA,Bĩbĩliyã Ị́jọ́ Úꞌdí rĩ drị̂ ãzíla bụ́kụ̃ ãzí Ị́jọ́ Ụ̃kụ rĩ agá rĩ kí abe,False,luc,Aringa,SS;UG,True
+4379,KMAJ,Kitab al Mukadas ma Arabi Juba,True,pga,"Arabic, Sudanese Creole",SS,True
+4384,PWL,PWL Druk Weergawe (Siries),False,afr,Afrikaans,BW;MZ;NA;ZA;ZM;ZW,True
+4387,KBTP,Kitaabua New Testament,True,tap,Taabwa,CD;ZM,True
+4394,LNZ,Bibidi di Longo,False,lnz,Lonzo,CD,True
+4395,PPP,Buku di Santu,False,ppp,Pelende,CD,True
+4396,KnW,Kitap na Wassa,False,saa,Saba,TD,True
+4399,mbu,Mbula-Bwazza,True,mbu,Mbula-Bwazza,NG,True
+4401,SPC,PWL in Standaard Protestantse Canon,False,afr,Afrikaans,BW;MZ;NA;ZA;ZM;ZW,True
+4402,Baa,Bassa (akwaromba),True,buj,Basa-Gurmana,NG,True
+4408,HAV,Nouveau Testament Havu,True,hav,Havu,CD,True
+4409,TiIq,Bible Kabyle révisée,False,kab,Kabyle,DZ,True
+4439,NDRULO,Ndrulo Ruta ndèymí njàddí Lò-tdey tsò gbádha mí bǔkù nà,False,dno,Ndrulo,CD,True
+4442,gdo,Woyyichchaa Maxaafa,False,drs,Gedeo,ET,True
+4443,Abt,Arum New Testament,True,aab,Alumu-Tesu,NG,True
+4444,ETP,Eloyi New Testament,False,afo,Ajiri,NG,True
+4445,ALA,OKOYI PEPE,True,ala,Alago,NG,True
+4446,NTANB25,The New Testament in Anu Language,True,,,,True
+4447,ABT,Aushi Bible Translation,True,auh,Aushi,CD;ZM,True
+4448,BLP,BANDAWA LANGUAGE PROJECT,True,bcv,Shoo-Minda-Nye,NG,True
+4449,Laa,Lamma Bible Translation Project,True,bma,Lame,NG,True
+4450,NTHTB25,The New Testament in Hettui Language,True,,,,True
+4451,dde Ddo,Musamu Wumbote,False,dde,Doondo,CD;CG,True
+4452,DBV,Chidowe,True,doe,Doe,TZ,True
+4453,TBDM,Dusun Malang Translation,True,,,,True
+4454,EKM,Nouveau Testament Nulibie,False,ekm,Elip,CM,True
+4455,NTBnBL2025,Benamanga,True,egm,Benemanga,TZ,True
+4456,KQTAB,"Biblica® Katabbiiwwan Qulqulluu, Turjumaana Ammayyaa Banamaa 2024",False,gaz,West Central Oromo,ET;SD,True
+4458,Gaa,Gwandara New Testament,True,gwn,Gwandara,NG,True
+4459,HLT,Hindi Literal Text,True,,,,True
+4460,HBT,Holoholo Bible Translation,True,hoo,Holoholo,BW;CD;ZW,True
+4462,IGJ,Injiyl g Jerbi,False,jbn,Nafusi,LY;TN,True
+4463,IGSJ,Injiyl g Silha Jbali,False,jbn,Nafusi,LY;TN,True
+4464,BUU,Buu New Testament,True,jid,Bu (Kaduna State),NG,True
+4465,KAD,Eda,True,kad,Adara,NG,True
+4466,KTP,Kalanga Translation Project,True,kck,Kalanga,BW;ZA;ZW,True
+4467,KBT,Kete Bible Translation,True,kcv,Kete,CD,True
+4468,NTSKm25,छार बाचा,True,,,,True
+4469,NTKIBL2025,Kimbu,True,kiv,Kimbu,TZ,True
+4470,NTWMK26,The New Testament Books in Wale Magar Kham Language,True,,,,True
+4471,SHBV,Kishambaa,True,ksb,Shambala,TZ,True
+4472,JST25,Jathapu Bible,True,,,,True
+4473,NTKST25,दयान बचन,True,,,,True
+4474,MLP,MUNGA TRANSLATION PROJECT,True,ldk,Leelau,NG,True
+4475,MBTP,Mbalanhu Bible Translation Project,True,lnb,Mbalanhu,,True
+4476,KPBT,Kuba Project Bible Translation,True,luj,Luna,CD,True
+4477,mfn-x-os,Mbembe Osopong,True,mfn,"Mbembe, Cross River",NG,True
+4478,mfn-x-ad,Mbembe Adun [mfn],True,mfn,"Mbembe, Cross River",NG,True
+4479,NTMbBL2025,Mbunga,True,mgy,Mbunga,TZ,True
+4480,NTMBL2025,Mbugu,True,mhd,Mbugu,TZ,True
+4481,MBTP,Bassa (Methew),True,mho,Mashi,AO;NA;ZM,True
+4482,HAA,HUNGWARHEA NEW TESTAMENT,True,nat,Hungworo,NG,True
+4483,NAA,Numana New Testament,True,nbr,Numana-Nunku-Gbantu-Numbu,NG,True
+4484,OTNdambBL,Ndamba,True,ndj,Ndamba,TZ,True
+4485,NBT,Khaneng First Bible Translation,True,,,,True
+4486,NorthZeme,Northern Zeme Bible,True,,,,True
+4487,LTP,Nambya Translation Project,True,nmq,Nambya,BW;NA;ZM;ZW,True
+4488,nnh,Ŋwàʼne Ssé,False,nnh,Ngiemboon,CM,True
+4489,NST25,Noiri Bible,True,,,,True
+4490,NTCYB25,The New Testament in Chuyo Language,True,,,,True
+4491,NTNYBL2025,Nyanja,True,nya,Nyanja,MW;MZ;SZ;TZ;ZM;ZW,True
+4492,SSTP,Sukwa Bible Translation,True,nyy,Nyakyusa-Ngonde,MW;TZ,True
+4495,NTSPt26,Santhali  New Testament,True,,,,True
+4497,STP,Sala Translation Project,True,shq,Sala,ZM,True
+4498,KBT,KoreKore Bible Translation,True,sna,Shona,BW;ZA;ZM;ZW,True
+4499,UAA,Shamang New Testament,True,sqa,Shama-Sambuga,NG,True
+4503,TTP,Tonga Translation Project,True,toi,Tonga (Zambia),NA;ZM;ZW,True
+4504,TBTP,Totela,True,ttl,Totela,NA;ZM,True
+4507,MpBV,The Old Testamen in Mpoto,True,,,,True
+4514,tii,Tuki,False,bag,Tuki,CM,True
+4515,BHS,Ɗerewel mala Laŋkan ma Mewe,False,bhs,Buwal,CM,True
+4516,GOU,Dzəv ma wiyə,False,gou,Gavar,CM,True
+4517,MIFU,Bible Mofu Gudur,False,mif,Mofu-Gudur,CM,True
+4518,MMU2,Numala2,False,mmu,Mmaala,CM,True
+4519,xmd,Nouveau Testament Mbudum,False,xmd,Mbudum,CM,True
+4520,XMG,Nouveau Testament Mengaka,False,xmg,Mengaka,CM,True
+4521,yav,Nikál Niikɔs,False,yav,Yangben,CM,True
+4524,ngc,Miwera,True,ngc,Ngombe (Democratic Republic of Congo),CD;CF,True
+4525,ngc,Bodjenga NT and OT,True,ngc,Ngombe (Democratic Republic of Congo),CD;CF,True
+4526,lol,Lokonda,True,lol,Mongo,CD,True
+4527,ngc,Bondjale,True,ngc,Ngombe (Democratic Republic of Congo),CD;CF,True
+4528,nto,Lontomba,True,nto,Ntomba,CD,True
+4529,ONEN,Biblica® Open Ngoane Edwɛkɛ Ne,False,nzi,Nzima,CI;GH,True
+4530,PBV,Lipatanu Lya Syayi Kwa Wantu Woseri,False,poy,Pogolo,TZ,True
+4533,WBTP,Afā Wanyɛnyɛ wu Nugé Wàpyóò,True,jub,Wannu,NG,True
+4534,kcc,Lubila,False,kcc,Lubila,NG,True
+4535,NguuBV,Kingulu,True,ngp,Ngulu,TZ,True
+4541,OOÑE,Biblica® Open Oduwem Obufa Ñwed Ediomi,False,efi,Efik,CM;NG,True
+4546,KUIL,Igie Likpa,False,btt,Bete-Bendi,NG,True
+4547,dae,LUK-MAT Nouveau Testament Duupa,False,dae,Duupa,CM,True
+4558,IBV,Isanzu,True,isn,Isanzu,TZ,True
+4559,KBV,Kami,True,kcu,Kami,TZ,True
+4561,liy,Banda-Linda NT,True,liy,Banda-Bambari,CF,True
+4564,nyj,TRADUCTION BILBE EN KINYANGA,True,nyj,Nyanga,CD,True
+4565,HKE,Hunde Nouveau Testament,False,hke,Hunde,CD,True
+4566,ver,KOBO BIBLE TRANSLATION,True,ver,Verre,CM;NG,True
+4567,bnx,Bangubangu Traduction,True,bnx,Bangubangu,CD,True
+4568,byi,Buyu Traduction,True,byi,Buyu,CD,True
+4569,oml,Ombo Traduction,True,oml,Ombo,CD,True
+4571,sod,Songola Traduction,True,sod,Songoora,CD,True
+4573,DGA,Naaŋmen Yelbiri Gane,False,dga,Southern Dagaare,BF;GH,True
+4574,OUV,IBIBULIA,False,lwg,Wanga,KE,True
+4575,LNTPP,ENDAKAANO EMBIAKHA ESABURI NENDE ENGANO,False,nle,Nyala,KE,True
+4576,noq,BIBLE EN KINGONGO,False,noq,Ngongo,CD,True
+4577,RUULI-NYALA,Ebitabo abiri n'ebitaanu ebya mu Ndagaano Egiyaaka omu Ruruuli-Runyala,False,ruc,Ruuli,UG,True
+4592,NMQMRK,Marko 1961,False,nmq,Nambya,BW;NA;ZM;ZW,True
+4597,NNTZ,Nkangala New Testament Zambia,False,nkn,Nkangala,AO,True
+4606,BNT96,Bete New Testament,False,bev,"Bété, Daloa",CI,True
+4607,GNB,Gbagyi Nyizeyenya Baibwulu: Shekwoyi Ɓədagbma,False,gbr,Gbagyi,NG,True
+4609,IRI,Rigwe Bible,False,iri,Irigwe,NG,True
+4610,ZNE,Pazande Bible,False,zne,Zande,CD;CF;SS,True
+4622,ngz,Ondoo b'Alili b'Engnungwel,False,ngz,Ngungwel,CG,True
+4630,SNT,New Testament Bible,False,sfw,Sehwi,CI;GH,True
+4632,SBV,Sagala,False,sbm,Sagala,TZ,True
+4633,TI,Téereb Injiil,False,wol,Wolof (Senegal),GM;GW;ML;MR;SN,True
+4638,Ruf,Iseezerano Rishya,False,kin,Rwandan,BI;CD;RW;TZ;UG,True
+4660,Nyam,Bibliya Ki'nyamwezi,False,nym,Nyamwezi,TZ,True
+4664,CCTL,Cizumano Cipya mu Chitoka-Leya,False,tog,Tonga (Nyasa),MW,True
+4666,CLL,Chala New Testament,False,cll,Chala,GH,True
+4667,ADE,Adele Old Testament,False,ade,Adele,GH;TG,True
+4672,BEJA,Ugalad Ugayi,False,bej,Bedawiyet,EG;ER;SD,True
+4673,NTR,Ntrubo Old Testament,False,ntr,Delo,GH;TG,True
+4674,NYB,Nyagbo Old Testament,False,nyb,Nyangbo,GH,True
+4695,BIV,Birifor Bible,False,biv,Southern Birifor,BF;CI;GH,True
+4710,Mlk,Nouveau testament Moloko,False,mlw,Moloko,CM,True
+4719,bwt,Bafaw New Testament,False,bwt,Bafaw-Balong,CM,True
+4726,AKP,Siwu Old Testament,False,akp,Siwu,GH,True
+4728,SNW,Selee Old Testament,False,snw,Selee,GH,True
+4737,GPA,Lìtàfi Lìlitsì Gupa Abawa,False,gpa,Gupa-Abawa,NG,True
+4739,KMI,Lìtàfi Lìlitsì Kami,False,kmi,Kami,NG,True
+4750,CEN,Ibaas New Testament Portions,False,cen,Ibaas,NG,True
+4753,Pāyipiriit,Pāyipiriit nyēē Tiliil,False,kpz,Kupsapiiny,KE;UG,True
+4757,ATBABC,Ancien Testament Beembe ABC,False,beq,Beembe (Congo),CG,True
+4767,BLY,Buku Loyera Chichewa Bible,False,nya,Nyanja,MW;MZ;SZ;TZ;ZM;ZW,True
+4781,SA-OTP,Sa Old Testament Panorama,True,,,,True
