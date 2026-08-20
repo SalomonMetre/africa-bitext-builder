@@ -74,21 +74,6 @@ class CorpusBuilder:
         ValueError: If a language code is unknown, if no public domain versions are
             available by default, if version IDs do not exist, or if parallel source
             and target languages are identical.
-
-    Example:
-        >>> from africa_bitext_builder.builder import CorpusBuilder
-        >>> # Public domain parallel alignment (Twi to English)
-        >>> builder = CorpusBuilder(source_lang="twi", target_lang="en", limit=1000)
-        >>> csv_path = builder.download("corpora/")
-        >>>
-        >>> # Opt into specific version IDs (Swahili ID 1627 to French ID 93)
-        >>> custom_builder = CorpusBuilder(
-        ...     source_lang="swh",
-        ...     target_lang="fr",
-        ...     source_version_ids=[1627],
-        ...     target_version_ids=[93],
-        ... )
-        >>> custom_builder.download("swahili_french.csv")
     """
 
     __all__ = ["download"]

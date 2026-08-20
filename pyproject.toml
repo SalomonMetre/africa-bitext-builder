@@ -1,0 +1,28 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "africa-bitext-builder"
+version = "0.1.0"
+description = "Discovery, licensing verification, and bitext builder across 690+ African languages."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+    { name = "Salomon Metre" }
+]
+dependencies = [
+    "pandas>=2.0.0",
+    "huggingface_hub>=0.20.0",
+]
+
+[project.optional-dependencies]
+docs = [
+    "mkdocs>=1.6.0",
+    "mkdocs-material>=9.5.0",
+    "mkdocstrings[python]>=0.25.0",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/africa_bitext_builder"]

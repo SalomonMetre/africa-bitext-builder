@@ -16,16 +16,15 @@ from dataclasses import dataclass, field
 
 @dataclass
 class BibleVersion:
-    """Represents an individual Bible translation version and its licensing metadata.
+    """A single Bible translation and its licensing details.
 
     Attributes:
-        id (int): Unique numeric YouVersion translation identifier.
+        id (int): Unique numeric translation identifier.
         abbrev (str): Standardized edition abbreviation (e.g., ``'LSG'``, ``'KJV'``, ``'SUV'``).
         name (str): Full title of the Bible translation edition.
-        is_public_domain (bool): Indicates whether this translation is verified Public Domain (PD)
-            or Creative Commons (CC) licensed.
+        is_public_domain (bool): Whether this translation is Public Domain (PD) or Creative Commons (CC) licensed.
         country (str | None): ISO country code(s) where this version is primarily circulated.
-        has_text (bool): Whether textual verse data is available for this translation.
+        has_text (bool): Whether verse text is available for this translation.
     """
 
     id: int
@@ -43,14 +42,14 @@ class BibleVersion:
 
 @dataclass
 class Language:
-    """Represents a language entity and its associated Bible translation versions.
+    """A language and its available Bible translation versions.
 
     Attributes:
         code (str): Standard ISO-639 language code (e.g., ``'swh'``, ``'twi'``, ``'fr'``).
         name (str): Canonical language name (e.g., ``'Swahili'``).
-        is_african (bool): True if the language is classified within the African macroarea.
-        text_column (str): Default target column name in raw CSV files (e.g., ``'local'``, ``'text'``).
-        bible_versions (list[BibleVersion]): List of all available translations for this language.
+        is_african (bool): Whether the language is classified as African.
+        text_column (str): Default column name holding text in the source CSV files.
+        bible_versions (list[BibleVersion]): All available translations for this language.
     """
 
     code: str
@@ -62,17 +61,17 @@ class Language:
 
     @property
     def public_domain_versions(self) -> list[BibleVersion]:
-        """Returns only Public Domain or Creative Commons licensed versions."""
+        """Versions that are Public Domain or Creative Commons licensed."""
         return [v for v in self.bible_versions if v.is_public_domain]
 
     @property
     def non_public_domain_versions(self) -> list[BibleVersion]:
-        """Returns only copyrighted versions."""
+        """Versions that are copyrighted."""
         return [v for v in self.bible_versions if not v.is_public_domain]
 
     @property
     def countries(self) -> list[str]:
-        """Extracts sorted unique ISO country codes mapped to this language."""
+        """Sorted list of unique country codes associated with this language."""
         c_set: set[str] = set()
         for v in self.bible_versions:
             if v.country:
@@ -89,26 +88,10 @@ class Language:
 
 
 class LanguageRegistry:
-    """Discovers, indexes, and queries language metadata and license statuses.
+    """Discovers and queries language metadata and license statuses.
 
-    The registry loads pre-indexed metadata from ``.lang_data.pkl`` to provide $O(1)$
-    lookups by ISO-639 code, numerical version ID, translation abbreviation,
-    country code, or substring name search.
-
-    Example:
-        >>> from africa_bitext_builder.registry import LanguageRegistry
-        >>> reg = LanguageRegistry()
-        >>> # Resolve language by ISO code
-        >>> swh = reg.resolve("swh")
-        >>> print(swh.name, len(swh.bible_versions))
-        Swahili 13
-        >>>
-        >>> # List all languages containing public domain data
-        >>> pd_languages = reg.list(public_domain_only=True)
-        >>>
-        >>> # Search by country or translation abbreviation
-        >>> gh_langs = reg.search(country="GH")
-        >>> lsg = reg.search(abbr="LSG")
+    Provides lookups by ISO-639 code, translation ID, abbreviation, country,
+    or a substring search on language name.
     """
 
     __all__ = ["list", "list_languages", "resolve", "search"]
@@ -132,7 +115,7 @@ class LanguageRegistry:
         Args:
             data_root: Local filesystem path where cached dataset files reside.
             hf_repo_id: Remote Hugging Face repository identifier used when files are not cached locally.
-            pkl_path: Optional explicit path to the ``.lang_data.pkl`` licensing metadata artifact.
+            pkl_path: Optional explicit path to the licensing metadata file.
         """
         self.data_root = data_root
         self.hf_repo_id = hf_repo_id
@@ -148,6 +131,7 @@ class LanguageRegistry:
         self._registry_cache: dict[str, Language] | None = None
 
     def _load_license_db(self) -> dict[int, dict[str, object]]:
+        """Loads licensing metadata, keyed by translation ID."""
         if not os.path.exists(self.pkl_path):
             return {}
 
@@ -165,6 +149,7 @@ class LanguageRegistry:
             return {int(row["id"]): row for row in data.to_dict(orient="records")}
 
     def _get_dataset_files(self) -> list[str]:
+        """Lists available dataset CSV files, checking local storage before the remote repository."""
         if self._file_cache is not None:
             return self._file_cache
 
@@ -194,6 +179,7 @@ class LanguageRegistry:
         return self._file_cache
 
     def _build_registry(self) -> dict[str, Language]:
+        """Builds the full language registry from the available dataset files."""
         files = self._get_dataset_files()
         langs: dict[str, Language] = {}
 
@@ -243,6 +229,7 @@ class LanguageRegistry:
     def _register_file(
         self, langs: dict[str, Language], rel_path: str, is_african: bool, default_col: str
     ) -> None:
+        """Parses a dataset filename and adds its language and version info to the registry."""
         fname = rel_path.split("/")[-1]
         m = self._LANG_FILE_RE.match(fname)
         if not m:
@@ -282,6 +269,7 @@ class LanguageRegistry:
         langs[code].bible_versions.append(version_obj)
 
     def _get_registry(self) -> dict[str, Language]:
+        """Returns the language registry, building it on first use."""
         if self._registry_cache is None:
             self._registry_cache = self._build_registry()
         return self._registry_cache
@@ -306,7 +294,7 @@ class LanguageRegistry:
         return self.list(public_domain_only=public_domain_only)
 
     def resolve(self, iso_code: str) -> Language | None:
-        """Performs a direct $O(1)$ lookup for a language by its ISO-639 code.
+        """Looks up a language by its ISO-639 code.
 
         Args:
             iso_code: Standard language identifier (e.g., ``'swh'``, ``'twi'``, ``'fr'``).
@@ -326,7 +314,7 @@ class LanguageRegistry:
         abbr: str | None = None,
         version_id: int | str | None = None,
     ) -> Language | list[Language] | tuple[Language, BibleVersion] | list[tuple[Language, BibleVersion]] | None:
-        """Multi-criteria search dispatcher across languages and versions.
+        """Multi-criteria search across languages and versions.
 
         Args:
             lang_code: Exact ISO-639 code to resolve (returns :class:`Language` or ``None``).
@@ -334,7 +322,7 @@ class LanguageRegistry:
             country: ISO country code (e.g., ``'GH'``, ``'NG'``) to filter languages (returns ``list[Language]``).
             abbr: Case-insensitive edition abbreviation (e.g., ``'LSG'``) to find specific translations
                 (returns ``list[tuple[Language, BibleVersion]]``).
-            version_id: Numerical YouVersion translation ID to locate (returns ``tuple[Language, BibleVersion]`` or ``None``).
+            version_id: Numerical translation ID to locate (returns ``tuple[Language, BibleVersion]`` or ``None``).
 
         Returns:
             Language | list[Language] | tuple[Language, BibleVersion] | list[tuple[Language, BibleVersion]] | None:
