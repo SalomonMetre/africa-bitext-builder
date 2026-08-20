@@ -26,3 +26,9 @@ docs = [
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/africa_bitext_builder"]
+
+[project.urls]
+Homepage = "https://github.com/SalomonMetre/africa-bitext-builder"
+Documentation = "https://africa-bitext-builder.readthedocs.io/"
+Repository = "https://github.com/SalomonMetre/africa-bitext-builder"
+"Bug Tracker" = "https://github.com/SalomonMetre/africa-bitext-builder/issues"
