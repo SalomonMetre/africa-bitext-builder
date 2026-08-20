@@ -1,7 +1,7 @@
 # Africa Bitext Builder
 
 A Python library for discovering, inspecting, and compiling sentence-aligned parallel and monolingual text corpora across 690+ African languages.
-**📚 [Read the Full Documentation](https://africa-bitext-builder.readthedocs.io/)**
+📚 [Read the Full Documentation](https://africa-bitext-builder.readthedocs.io/)
 ---
 
 ## Quickstart
