@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SalomonMetre/africa-bitext-builder/refs/heads/master/docs/assets/logo_full.png" alt="Africa Bitext Builder Banner" width="300">
+  <img src="https://raw.githubusercontent.com/SalomonMetre/africa-bitext-builder/master/docs/assets/logo_full.png" alt="Africa Bitext Builder Banner" width="300">
 </p>
 
 <h1 align="center">Africa Bitext Builder</h1>
