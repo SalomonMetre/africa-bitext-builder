@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/SalomonMetre/africa-bitext-builder/refs/heads/master/docs/assets/logo_full.png" alt="Africa Bitext Builder Banner" width="300">
 </p>
 
-# Africa Bitext Builder
+<h1 align="center">Africa Bitext Builder</h1>
 
 **Africa Bitext Builder** is a Python library for discovering, inspecting, and compiling sentence-aligned parallel and monolingual text corpora across **690+ African languages**.
 
