@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "africa-bitext-builder"
-version = "0.1.3"
+version = "0.1.5"
 description = "Discovery, licensing verification, and bitext builder across 690+ African languages."
 readme = "README.md"
 requires-python = ">=3.10"
