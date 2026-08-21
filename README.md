@@ -1,17 +1,12 @@
 <p align="center">
-  <img src="docs/assets/logo_full.png" alt="Africa Bitext Builder Banner" width="600">
-</p>
-
-<p align="center">
-  <a href="https://africa-bitext-builder.readthedocs.io/"><strong>📚 Documentation</strong></a> •
-  <a href="https://pypi.org/project/africa-bitext-builder/"><strong>📦 PyPI Package</strong></a>
+  <img src="https://raw.githubusercontent.com/SalomonMetre/africa-bitext-builder/refs/heads/master/docs/assets/logo_full.png" alt="Africa Bitext Builder Banner" width="600">
 </p>
 
 # Africa Bitext Builder
 
 **Africa Bitext Builder** is a Python library for discovering, inspecting, and compiling sentence-aligned parallel and monolingual text corpora across **690+ African languages**.
 
-📚 Full documentation is available at [africa-bitext-builder.readthedocs.io](https://africa-bitext-builder.readthedocs.io/).
+📚 [Documentation](https://africa-bitext-builder.readthedocs.io/).
 
 ---
 
